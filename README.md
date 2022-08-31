@@ -1,1 +1,1 @@
-# 2622-Estancia-I-Archivos-Python
+# Archivos de Python realizados en la primera estancia
