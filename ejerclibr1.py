@@ -15,4 +15,3 @@ if total > 150 and total <= 300:
 if total > 300 and total <= 450:
     sueldo = total - (0.09 * total)
     print("Empresa: ", nombre,"\n""El sueldo neto es:   ", sueldo)
-
