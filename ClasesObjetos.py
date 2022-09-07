@@ -7,4 +7,3 @@ class auto:
 
 taxi = auto()
 print(taxi.placa)
-    

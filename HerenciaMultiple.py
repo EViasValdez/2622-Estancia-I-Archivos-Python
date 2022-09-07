@@ -20,8 +20,10 @@ class Reproduccion:
 class TelefonoCelular (Telefono, Camara, Reproduccion):
     def __del__(self):
         print("Telefono apagado...")
+
 Celular = TelefonoCelular()
 Repr = Reproduccion()
+
 print(Celular.Fotografia())
 print(Celular.Llamar())
 print(Repr.ReproduccionVideo())

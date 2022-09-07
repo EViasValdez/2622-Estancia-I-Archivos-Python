@@ -19,19 +19,19 @@ while True:
     if opcion == 1:
         print(" ")
         print("El resultado de la suma es")
-        print(numero1+numero2)
+        print(numero1 + numero2)
     elif opcion == 2:
         print(" ")
         print("El resultado de la resta es")
-        print(numero1-numero2)
+        print(numero1 - numero2)
     elif opcion == 3:
         print(" ")
         print("El resultado de la multiplicacion es")
-        print(numero1*numero2)
+        print(numero1 * numero2)
     elif opcion == 4:
         print(" ")
         print("El resultado de la division es")
-        print(numero1-numero2)
+        print(numero1 - numero2)
     elif opcion == 5:
         break
     else:

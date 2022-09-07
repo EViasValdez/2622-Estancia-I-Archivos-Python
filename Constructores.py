@@ -21,7 +21,6 @@ class Rombo:
         self.en = True
 
 figu = Rombo()
-
 print(figu.en)
 figu.enviar_rombo()
 print(figu.en)
