@@ -6,3 +6,5 @@ class Persona:
 
 class Empleado(Persona):
     def atributos(self, sueldo):
+        self.nombre = nombre
+        self.edad = edad
