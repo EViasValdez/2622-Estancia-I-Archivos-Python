@@ -5,7 +5,7 @@ def conversor(MonedaActual, Valor, MonedaAConvertir):
     if MonedaActual == 1:
         def ToDolar():
             if MonedaAConvertir == "1":
-                print(f"{Valor} dolares equivale a ${Valor * 049} pesos colombianos")
+                print(f"{Valor} dolares equivale a ${Valor * 0.49} pesos colombianos")
             elif MonedaAConvertir == "2":
                 print(f"{Valor} dolares equivale a ¥{Valor * 6.37} yuanes")
             elif MonedaAConvertir == "3":
@@ -20,7 +20,7 @@ def conversor(MonedaActual, Valor, MonedaAConvertir):
             if MonedaAConvertir == "1":
                 print(f"{Valor} dolares equivale a ${Valor * 4000} pesos colombianos")
             elif MonedaAConvertir == "2":
-                print(f"{Valor} dolares equivale a ¥{Valor * 6.93} yuanes o")
+                print(f"{Valor} dolares equivale a ¥{Valor * 6.93} yuanes o yenes")
             elif MonedaAConvertir == "3":
                 print(f"{Valor} dolares equivale a £{Valor * 0.83} libras")
             else:

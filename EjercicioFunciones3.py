@@ -18,4 +18,3 @@ def numerosen(n1, n2):
         print(i)
 
 numerosen(1, 100)
-    
