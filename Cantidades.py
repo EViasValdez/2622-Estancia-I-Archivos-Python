@@ -3,7 +3,7 @@ def Cantidades():
     X = 1
     A = 0
     B = 0
-    C = 0    
+    C = 0
 
     Nums = int (input("Ingrese los numeros a ingresar:  "))
 

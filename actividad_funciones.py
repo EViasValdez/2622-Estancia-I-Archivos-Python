@@ -12,7 +12,6 @@ def conversor(MonedaActual, Valor, MonedaAConvertir):
                 print(f"{Valor} dolares equivale a £{Valor * 0.76} libras")
             else:
                 print("Moneda no reconocida")
-        
         ToDolar()
 
     elif MonedaActual == 2:
@@ -25,7 +24,6 @@ def conversor(MonedaActual, Valor, MonedaAConvertir):
                 print(f"{Valor} dolares equivale a £{Valor * 0.83} libras")
             else:
                 print("Moneda no reconocida")
-
         ToEuro()
     else:
         print("Moneda no reconocida")

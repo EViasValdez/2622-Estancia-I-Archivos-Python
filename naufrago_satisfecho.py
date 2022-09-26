@@ -17,11 +17,10 @@ def Hamburguesas():
                 Total = Total + 25
             else:
                 Total = Total + 28
-    
         F = F + 1
 
     Pago = int(input("Ingrese el tipo de pago \n  1- Efectivo  \n 2- Tarjeta \n"))
-    
+
     if Pago == 1:
         print("El total a pagar de " + str(Cantidad) + " hamburgesas es de: $" + str(Total) + " pesos")
     else:

@@ -2,19 +2,19 @@ class Telefono:
     def __init__(self):
         pass
     def Llamar(self):
-        print("Llamando....")   
+        print("Llamando....")
     def Ocupado(self):
         print("Ocupado....")
 class Camara:
     def __init__(self):
-        pass  
+        pass
     def Fotografia(self):
         print("Tomando fotos....")
 class Reproduccion:
     def __init__(self):
-        pass   
+        pass
     def ReproduccionVideo(self):
-        print("Reproduciendo video...")    
+        print("Reproduciendo video...")
     def ReproduccionMusica(self):
         print("Reproduciendo musica...")
 class TelefonoCelular (Telefono, Camara, Reproduccion):

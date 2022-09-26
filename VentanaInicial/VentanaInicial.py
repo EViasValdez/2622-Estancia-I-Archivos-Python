@@ -2,7 +2,9 @@ from tkinter import *
 
 principal = Tk()
 principal.title("Ventana")
+
 # principal.resizable(False, False)
+
 principal.iconbitmap("python.ico")
 principal.geometry("650x580")
 principal.config(bg = "red")

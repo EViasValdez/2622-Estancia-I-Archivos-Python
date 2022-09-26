@@ -12,5 +12,4 @@ elif Hora <= 10:
     Total = ((Hora - 5) * 3) + 22
 else:
     Total = ((Hora - 10) * 2) + 37
-
 print("El total a pagar de " + str(Hora) + " es de: $" + str(Total) + " pesos")
