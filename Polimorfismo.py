@@ -12,6 +12,7 @@ class Cubo (Figura):
 nueva_figura = Esfera ("Circular")
 print(nueva_figura.tipo_figura())
 print(nueva_figura.nombre)
+
 nueva_figura2 = Cubo ("Cubica")
 print(nueva_figura2.tipo_figura())
 print(nueva_figura2.nombre)

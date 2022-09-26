@@ -1,5 +1,6 @@
 print("==== Automotriz Calarin ====")
 input()
+
 print("Clave del vehiculo")
 print("Indicar la clave del vehiculo (1, 2, 3): ")
 Clave = int(input())

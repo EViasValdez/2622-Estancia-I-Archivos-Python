@@ -54,4 +54,3 @@ while consultando:
     elif opcion == "5":
         consultado = False
         print("Gracias por usar este programa")
-    

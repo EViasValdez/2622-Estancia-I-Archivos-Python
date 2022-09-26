@@ -9,9 +9,7 @@ def Ahorro():
             print("Dia " + str(D) + ": $" + str(Centavos) + " centavos")
         else:
             print("Dia " + str(D) + ": $" + str(Centavos) + " pesos")
-        
         D = D + 1
-
     print("El ahorro es de: $" + str(Centavos) + " pesos")
 
 Ahorro()
