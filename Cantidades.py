@@ -17,7 +17,6 @@ def Cantidades():
                 C = C + 1
             else:
                 C = C + 1
-        
         X = X + 1
 
     print("Los numeros introducidos son: ", Lista)

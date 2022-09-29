@@ -1,4 +1,4 @@
-# Condicional if / elif / else
+# Condicional if / elif / else.
 numero = int(input("Ingrese un numero: "));
 
 if numero > 0:
@@ -8,7 +8,7 @@ elif numero == 0:
 else:
     print("El numero es negativo")
 
-# Condicional anidadas / combinadas
+# Condicional anidadas / combinadas.
 numerorequerido = int(input("Ingrese un numero: "));
 
 if numerorequerido > 0 and numerorequerido < 98:
