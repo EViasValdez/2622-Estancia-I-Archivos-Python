@@ -1,9 +1,9 @@
 # Importamos Tkinter
 from tkinter import *
 raiz = Tk()
-# IMPORTAMOS MESSAGE-BOX
+# Importamos messagebox
 from tkinter import messagebox
-# IMPORTAMOS FILE-DIALOG
+# Importamos filedialog
 from tkinter import filedialog
 
 # CREAMOS UNA VENTANA CON INFORMACIÓN
@@ -12,7 +12,7 @@ def infoAdicional():
 # CREAMOS UNA VENTANA CON ADVERTENCIA
 def infoLicencia():
     messagebox.showwarning("Licencia", "Licencia activada hasta 2030")
-# CREAMOS UNA VENTANA DE PREGUNSTA
+# CREAMOS UNA VENTANA DE PREGUNTA
 def salirApp():
     valor = messagebox.askokcancel("salir", "¿Desea salir?")
     if valor == True:
