@@ -19,7 +19,7 @@ def salirApp():
         raiz.destroy()
 # Cerramos el documento.
 def cerrarDocumento():
-    valor = messagebox.askretrycancel("Reintentar","No es posible cerrar el documento")
+    valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
     if valor == False:
         raiz.destroy()
 # Creamos la funcion abrir archivo.
