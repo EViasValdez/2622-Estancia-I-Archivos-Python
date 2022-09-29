@@ -28,13 +28,13 @@ class Francia:
         print(" La capital es Paris")
     def idioma(self):
         print("Es frances")
-Colombiano = Colombia() # 1 Objeto
-Frances = Francia() # 2 Objeto
+Colombiano = Colombia() # 1 Objeto.
+Frances = Francia() # 2 Objeto.
 for pais in (Colombiano, Frances):
     print(pais.capital())
     print(pais.idioma())
 
-# Polimorfismo con herencia
+# Polimorfismo con herencia.
 class Aves:
     def volar(self):
         print("La mayoria de aves pueden volar")

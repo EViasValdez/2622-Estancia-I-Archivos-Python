@@ -1,4 +1,4 @@
-# Operadores logicos
+# Operadores logicos.
 A = 10
 B = 14
 C = 14
@@ -7,7 +7,7 @@ resultado = ((A < B) or (B < C))
 
 print(resultado)
 
-# Operaciones de asignacion
+# Operaciones de asignacion.
 a = 0
 
 a += 5

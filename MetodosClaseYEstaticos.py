@@ -1,6 +1,6 @@
 class Pastel:
     def __init__(self,ingredientes):
-        self.ingredientes= ingredientes
+        self.ingredientes = ingredientes
     def __repr__(self):
         return f"Pastel {self.ingredientes !r}"
     @classmethod
@@ -14,7 +14,7 @@ print(Pastel.Pastel_vainilla())
 
 import math
 class Pastel:
-    def __init__(self,ingredientes,tamaño):
+    def __init__(self, ingredientes, tamaño):
         self.ingredientes= ingredientes
         self.tamaño = tamaño
     def __repr__(self):

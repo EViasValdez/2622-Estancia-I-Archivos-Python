@@ -1,4 +1,4 @@
-# Factoriales
+# Factoriales.
 def factorial(numero):
     resultado = 1
 
@@ -7,7 +7,7 @@ def factorial(numero):
     return resultado
 print(factorial(5))
 
-# Numeros enteros
+# Numeros enteros.
 def numerosen(n1, n2):
     if (n1 > n2):
         aux = n1
