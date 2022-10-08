@@ -23,6 +23,7 @@ CuadroComentario.grid(row = 4, column = 1, padx = 10, pady = 10)
 scrolllVertical = Scrollbar(FramePrincipal, command = CuadroComentario.yview)
 scrolllVertical.grid(row = 4, column = 2, padx = 50, pady = 30, sticky = "nsew")
 CuadroComentario.config(yscrollcommand = scrolllVertical.set, fg = "red")
+
 nombreLabel = Label(FramePrincipal, text="Nombre: ")
 nombreLabel.grid(row = 0, column = 0, sticky = "e", padx = 10, pady = 10)
 apellidoLabel = Label(FramePrincipal, text = "Apellido: ")
