@@ -31,12 +31,12 @@ def abreArchivo():
 barraMenu = Menu(raiz)
 raiz.config(menu = barraMenu, width = 300, height = 300)
 
-# Establecer cantidad de elementos.
+# Establecemos cantidad de elementos.
 archivoMenu = Menu(barraMenu, tearoff = 0)
 
 archivoMenu.add_command(label = "Nuevo")
 archivoMenu.add_command(label = "Abrir", command = abreArchivo)
-archivoMenu.add_separator() # Genera una linea separadora.
+archivoMenu.add_separator() # Esta linea genera una linea separadora.
 archivoMenu.add_command(label = "Cerrar", command = cerrarDocumento)
 archivoMenu.add_command(label = "Salir", command = salirApp)
 
@@ -64,5 +64,5 @@ barraMenu.add_cascade(label = "Edicion", menu = edicionMenu)
 barraMenu.add_cascade(label = "Herramientas", menu = herramientaMenu)
 barraMenu.add_cascade(label = "Ayuda", menu = ayudaMenu)
 
-# Mostramos en pantalla.
+# Mostrar en pantalla.
 raiz.mainloop()
