@@ -14,7 +14,7 @@ while consultando:
     print("")
     print("Mi agenda")
     print("----------------")
-    print("1. Consultar \n2. Añadir \n3. Modificar \n4. Borrar \n5. Salir")
+    print("1. Consultar \n 2. Añadir \n 3. Modificar \n 4. Borrar \n 5. Salir")
 
     opcion = ""
 
