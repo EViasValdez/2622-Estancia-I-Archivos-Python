@@ -1,7 +1,7 @@
-# Polimorfismo con funcion
+# Polimorfismo con funcion.
 class Tomate:
     def tipo(self):
-        print("Es un vejetal")
+        print("Es un vegetal")
     def color(self):
         print("Es de colo rojo")
 class Manzana:
@@ -17,7 +17,7 @@ print (funcion(nuevo_tomate()))
 nuevo_manzana = Manzana
 print(funcion(nuevo_manzana()))
 
-# Polimorfismo con metodos
+# Polimorfismo con metodos.
 class Colombia:
     def capital(self):
         print(" La capital es Bogota")
