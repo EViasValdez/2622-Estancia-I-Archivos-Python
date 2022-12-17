@@ -1,2 +1,2 @@
-nombre = "Eduardo";
-print(f"Hola, soy {nombre} y estoy aprendiendo Python");
+Nombre = "Eduardo";
+print(f"Hola, soy {Nombre} y estoy aprendiendo Python");

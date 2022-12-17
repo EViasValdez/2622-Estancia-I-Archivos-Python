@@ -1,17 +1,17 @@
 # Ciclo while
-valor = 0
+Valor = 0
 
-while valor < 10:
+while Valor < 10:
     print("Numero")
-    print(valor)
-    valor += 1
+    print(Valor)
+    Valor += 1
 
 print(" ")
 print("Fin del programa")
 print("                ")
 
 # Ciclo for
-texto = "Texto de ejemplo"
+Texto = "Texto de ejemplo"
 
-for i in texto:
+for i in Texto:
     print(f"{i}", end = " ")

@@ -1,10 +1,10 @@
 class Computadora:
     def __init__(self):
-        self.tipo = "Laptop"
-        self.marca = "Lenovo"
-        self.modelo = "Ideapad"
-        self.color = "Azul"
+        self.Tipo = "Laptop"
+        self.Marca = "Lenovo"
+        self.Modelo = "Ideapad"
+        self.Color = "Azul"
 
-tipopc = Computadora()
-print(tipopc.tipo)
-print(tipopc.marca)
+TipoPc = Computadora()
+print(TipoPc.Tipo)
+print(TipoPc.Marca)

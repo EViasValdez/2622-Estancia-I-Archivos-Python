@@ -1,9 +1,9 @@
 # Clase
-class auto:
-    marca = ""
-    modelo = 0
-    placa = "8RI84"
-    tipo = "Sample Text"
+class Auto:
+    Marca = ""
+    Modelo = 0
+    Placa = "8RI84"
+    Tipo = "Sample Text"
 
-taxi = auto()
-print(taxi.placa)
+Taxi = Auto()
+print(taxi.Placa)

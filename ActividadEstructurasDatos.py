@@ -9,48 +9,48 @@ agenda = {
     "Luis": 930297
 }
 
-consultando = True
-while consultando:
+Consultando = True
+while Consultando:
     print("")
     print("Mi agenda")
     print("----------------")
     print("1. Consultar \n 2. Añadir \n 3. Modificar \n 4. Borrar \n 5. Salir")
 
-    opcion = ""
+    Opcion = ""
 
-    while opcion not in ("1", "2", "3", "4", "5"):
-        opcion = input("-> ")
+    while Opcion not in ("1", "2", "3", "4", "5"):
+        Opcion = input("-> ")
 
-    if opcion == "1":
-        nombre = input("Nombre: ")
-        if nombre not in agenda:
+    if Opcion == "1":
+        Nombre = input("Nombre: ")
+        if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
-            telefono = agenda[nombre]
-            print(nombre, ":", telefono)
-    elif opcion == "2":
-        nombre = input("Nombre: ")
-        if nombre in agenda:
+            telefono = Agenda[Nombre]
+            print(Nombre, ":", telefono)
+    elif Opcion == "2":
+        Nombre = input("Nombre: ")
+        if Nombre in Agenda:
             print("Este nombre ya esta en la agenda")
         else:
             telefono = int(input("Ingrese el telefono: "))
-            agenda[nombre] = telefono
+            Agenda[Nombre] = telefono
             print("El telefono se ha añadido correctamente")
-    elif opcion == "3":
-        nombre = input("Nombre: ")
-        if nombre not in agenda:
+    elif Opcion == "3":
+        Nombre = input("Nombre: ")
+        if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
             telefono = int(input("Ingrese el telefono: "))
-            agenda[nombre] = telefono
+            Agenda[Nombre] = telefono
             print("El telefono se ha modificado correctamente")
-    elif opcion == "4":
-        nombre = input("Nombre: ")
-        if nombre not in agenda:
+    elif Opcion == "4":
+        Nombre = input("Nombre: ")
+        if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
-            del agenda[nombre]
+            del Agenda[Nombre]
             print("El telefono se ha borrado correctamente")
-    elif opcion == "5":
-        consultado = False
+    elif Opcion == "5":
+        Consultado = False
         print("Gracias por usar este programa")

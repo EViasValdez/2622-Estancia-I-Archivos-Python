@@ -1,24 +1,24 @@
 print("----------------------------");
 print("Asignacion de valores");
 
-texto1 = "Uno";
-texto2 = "Dos";
+Texto1 = "Uno";
+Texto2 = "Dos";
 
-print(f"El primer texto dice " + texto1);
-print(f"El segundo texto dice " + texto2);
+print(f"El primer texto dice " + Texto1);
+print(f"El segundo texto dice " + Texto2);
 
 print("----------------------------");
 print("Asignacion de variables");
 
-numero1 = 10;
-numero2 = 10;
+Numero1 = 10;
+Numero2 = 10;
 
-resultado1 = (numero1 + numero2);
-resultado2 = (numero1 - numero2);
-resultado3 = (numero1 * numero2);
-resultado4 = (numero1 / numero2);
+Resultado1 = (Numero1 + Numero2);
+Resultado2 = (Numero1 - Numero2);
+Resultado3 = (Numero1 * Numero2);
+Resultado4 = (Numero1 / Numero2);
 
-print("Suma " + str(resultado1));
-print("Resta " + str(resultado2));
-print("Multiplicacion " + str(resultado3));
-print("Division " + str(resultado4));
+print("Suma " + str(Resultado1));
+print("Resta " + str(Resultado2));
+print("Multiplicacion " + str(Resultado3));
+print("Division " + str(Resultado4));

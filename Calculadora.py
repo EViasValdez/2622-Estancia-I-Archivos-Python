@@ -3,8 +3,8 @@ print("Calculadora");
 print("Por EViasValdez");
 print("....................");
 
-numero1 = int(input("Ingrese el primer numero: "));
-numero2 = int(input("Ingrese el segundo numero: "));
+Numero1 = int(input("Ingrese el primer numero: "));
+Numero2 = int(input("Ingrese el segundo numero: "));
 
 opcion = 0
 while True:
@@ -19,19 +19,19 @@ while True:
     if opcion == 1:
         print(" ")
         print("El resultado de la suma es")
-        print(numero1 + numero2)
+        print(Numero1 + Numero2)
     elif opcion == 2:
         print(" ")
         print("El resultado de la resta es")
-        print(numero1 - numero2)
+        print(Numero1 - Numero2)
     elif opcion == 3:
         print(" ")
         print("El resultado de la multiplicacion es")
-        print(numero1 * numero2)
+        print(Numero1 * Numero2)
     elif opcion == 4:
         print(" ")
         print("El resultado de la division es")
-        print(numero1 - numero2)
+        print(Numero1 - Numero2)
     elif opcion == 5:
         break
     else:

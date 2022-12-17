@@ -1,15 +1,15 @@
-nombre = input ("Nombre completo: " )
-materias = 5
-contador = 1 
-sumatoria = 0
+Nombre = input ("Nombre completo: " )
+Materias = 5
+Contador = 1 
+Sumatoria = 0
 
-while contador <= materias:
-     nombre_materia = input("Ingresa el nombre de la (" + str(contador) + ") materia: ")
-     calificacion = float(input ("calificacion obtenidas en " + str(nombre_materia) + ": "))
+while Contador <= Materias:
+     nombre_materia = input("Ingresa el nombre de la (" + str(Contador) + ") materia: ")
+     calificacion = float(input ("calificacion obtenidas en " + str(NombreMateria) + ": "))
 
-sumatoria = sumatoria + calificacion 
-contador = contador + 1
+Sumatoria = Sumatoria + calificacion 
+Contador = Contador + 1
 
-promedio = sumatoria / materias
+Promedio = Sumatoria / Materias
 print ("__RESULTADOS__")
-print (f"Hola, {nombre} tienes un promedio de {promedio} en el 5to semestre.")
+print (f"Hola, {Nombre} tienes un promedio de {Promedio} en el 5to semestre.")

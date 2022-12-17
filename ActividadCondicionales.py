@@ -1,15 +1,15 @@
-nombre = input("Ingrese el nombre del cliente ")
-valor_compra = float(input("Ingrese el valor de la compra "))
-descuento = float(valor_compra * descuento)
+Nombre = input("Ingrese el nombre del cliente ")
+ValorCompra = float(input("Ingrese el valor de la compra "))
+Descuento = float(ValorCompra * Descuento)
 
-if valor_compra < 80:
-     print(f"Hola, {nombre}. El valor a pagar es: $ {valor_compra}")
-elif 80 <= valor_compra < 150:
-      descuento = 0.1
-elif 150 <= valor_compra <= 300:
-      descuento = 0.15
-elif 300 <= valor_compra < 500:
-      descuento = 0.2
+if ValorCompra < 80:
+     print(f"Hola, {Nombre}. El valor a pagar es: $ {ValorCompra}")
+elif 80 <= ValorCompra < 150:
+      Descuento = 0.1
+elif 150 <= ValorCompra <= 300:
+      Descuento = 0.15
+elif 300 <= ValorCompra < 500:
+      Descuento = 0.2
 
-precio_final = valor_compra - (valor_compra * descuento)
-print(f"Compra sin descuento: {valor_compra} . \n Compra con descuento: {precio_final}")
+PrecioFinal = ValorCompra - (ValorCompra * Descuento)
+print(f"Compra sin descuento: {ValorCompra} . \n Compra con descuento: {PrecioFinal}")

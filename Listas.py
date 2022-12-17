@@ -1,17 +1,17 @@
 # Listas.
-objetosnumeros = ["Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis", "Siete", "Ocho"]
-print(objetosnumeros[-2])
+ObjetosNumeros = ["Uno", "Dos", "Tres", "Cuatro", "Cinco", "Seis", "Siete", "Ocho"]
+print(ObjetosNumeros[-2])
 
 # Borrar listas.
-objetosletras = ["A", "B", "C", "D", "E", "F", "G", "H"]
-del objetosletras[6]
-print(objetosletras)
+ObjetosLetras = ["A", "B", "C", "D", "E", "F", "G", "H"]
+del ObjetosLetras[6]
+print(ObjetosLetras)
 
 # Quitar objetos
-# objetosletras.remove("G")
-# print(objetosletras)
+# ObjetosLetras.remove("G")
+# print(ObjetosLetras)
 
 # Agregar objetos
-# objetosletras.append("I")
+# ObjetosLetras.append("I")
 # objetosLetras.insert(0, "I")
-# print(objetosletras)
+# print(ObjetosLetras)

@@ -18,6 +18,6 @@ class Ciudadano(Persona):
         else:
             print(f"El ciudadano {self.nombre} no debe pagar impuestos")
 
-cuidadano1 = Ciudadano()
-cuidadano1.imprimir()
-cuidadano1.impuestos()
+Cuidadano1 = Ciudadano()
+Cuidadano1.imprimir()
+Cuidadano1.impuestos()
