@@ -11,4 +11,42 @@ uno de los cursos elegidos fue de Python.
 **- Cada archivo debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar cambios a uno que otro archivo.**
 <!----Separador de las notas---->
 <!----Directorio con ubicación de archivos---->
+###### Print - 20/05/22
+Texto por ser escrito.
+
+###### PrimerPrograma - 24/05/22
+Texto por ser escrito.
+
+##### OperadoresLogicos - 30/05/22
+Texto por ser escrito.
+
+##### Salidayentradadedatos, Condicionales, Calculadora - 04/06/22
+Texto por ser escrito.
+
+##### Bucle - 06/06/22
+Texto por ser escrito.
+
+##### Contrasenia - 10/06/22
+Texto por ser escrito.
+
+##### Listas - 13/06/22
+Texto por ser escrito.
+
+##### Diccionarios - 14/06/22
+Texto por ser escrito.
+
+##### Funciones, Lambda - 16/06/22
+Texto por ser escrito.
+
+##### EjercicioFunciones1, EjercicioFunciones2, EjercicioFunciones3 - 05/07/22
+Texto por ser escrito.
+
+##### ClasesObjetos - 06/07/22
+Texto por ser escrito.
+
+##### Metodos, MetodosInit, CalculadoraMetodos, FuncionesAtributos - 07/07/22
+Texto por ser escrito.
+
+##### Constructores - 08/07/22
+Texto por ser escrito.
 <!----Separador del directorio con ubicación de archivos---->
