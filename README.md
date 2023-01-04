@@ -49,4 +49,32 @@ Texto por ser escrito.
 
 ##### Constructores - 08/07/22
 Texto por ser escrito.
+
+##### EjercicioHerencia, HerenciaMultiple, F-String - 13/07/22
+Texto por ser escrito.
+
+##### MetodosClaseyEstaticos, Polimorfismo, PolimorfismoFuncion - 14/07/22
+Texto por ser escrito.
+
+##### LeeryEditarArchivo, EliminarArchivo - 16/07/22 
+Texto por ser escrito.
+
+##### CuadroTexto, CuadroTextoBotones - 21/07/22
+Texto por ser escrito.
+
+##### CuadrosTexto, ProblemaHerencia, Menu, VentanasEmergentes - 22/07/22
+Texto por ser escrito.
+
+##### ActividadOperadores, ActividadCondicionales, ActividadCiclos, ActividadFunciones - 23/07/22
+Texto por ser escrito.
+
+##### ActividadEstructurasDatos - 25/07/22
+Texto por ser escrito.
+
+##### ActividadPoo - 29/07/22
+Texto por ser escrito.
+
+##### CompañiaAutobuses, CompañiaTelefonos, PromedioAlumno, UsoEstacionamiento, SalarioTrabajador, Ejerlibr1, Ejerlibr2, Ejerlibr3, Ejerlibr4, Automotriz - 09/08/22
+Texto por ser escrito.
+
 <!----Separador del directorio con ubicación de archivos---->
