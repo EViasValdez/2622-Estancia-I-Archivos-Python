@@ -13,7 +13,7 @@ CuadroTexto2.grid(row = 1, column = 1, padx = 10, pady = 10)
 CuadroTexto3 = Entry(FramePrincipal)
 CuadroTexto3.grid(row = 2, column = 1, padx = 10, pady = 10)
 CuadroPass = Entry(FramePrincipal)
-CuadroPass.grid(row = 3,column = 1, padx = 10, pady = 10)
+CuadroPass.grid(row = 3, column = 1, padx = 10, pady = 10)
 CuadroPass.config(show = "*")
 
 NombreLabel1 = Label(FramePrincipal, text = "Nombre: ")
