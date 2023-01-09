@@ -1,19 +1,19 @@
 # Salida de datos.
-nombrec = "Eduardo Viñas Valdez";
-numerouno = "4902854258";
-numerodos = "2054291844";
-universidad = "Universidad Politecnica de Tecamac";
+NombreC = "Eduardo Viñas Valdez";
+NumeroUno = "4902854258";
+NumeroDos = "2054291844";
+Universidad = "Universidad Politecnica de Tecamac";
 
 print("El usuario registrado tiene los siguientes datos");
-print(f"{nombrec}, {numerouno}, {numerodos}, {universidad}");
+print(f"{NombreC}, {NumeroUno}, {NumeroDos}, {Universidad}");
 
 # Entrada de datos.
-nombre = input("Ingrese nombre completo: ")
-numero1 = int(input("Ingrese numero de trabajo: "))
-numero2 = int(input("Ingrese numero de clave: "))
-univ = input("Ingrese universidad: ")
+Nombre = input("Ingrese nombre completo: ")
+Numero1 = int(input("Ingrese numero de trabajo: "))
+Numero2 = int(input("Ingrese numero de clave: "))
+Univ = input("Ingrese universidad: ")
 
-print(f"Su nombre es {nombre}");
-print(f"Su numero es {numero1}");
-print(f"Su numero es {numero2}");
-print(f"Su nombre es {univ}");
+print(f"Su nombre es {Nombre}");
+print(f"Su numero es {Numero1}");
+print(f"Su numero es {Numero2}");
+print(f"Su nombre es {Univ}");

@@ -1,10 +1,10 @@
 # Factoriales.
 def factorial(numero):
-    resultado = 1
+    Resultado = 1
 
     for i in range(numero - 1, 2, - 1):
-        resultado = resultado * i
-    return resultado
+        Resultado = Resultado * i
+    return Resultado
 print(factorial(5))
 
 # Numeros enteros.

@@ -1,4 +1,4 @@
-# Ciclo while
+# Ciclo while.
 Valor = 0
 
 while Valor < 10:
@@ -6,11 +6,11 @@ while Valor < 10:
     print(Valor)
     Valor += 1
 
-print(" ")
+print("                ")
 print("Fin del programa")
 print("                ")
 
-# Ciclo for
+# Ciclo for.
 Texto = "Texto de ejemplo"
 
 for i in Texto:

@@ -13,7 +13,7 @@ Figura = Cubo("Si", "4")
 print(Figura.desc())
 print(Figura.comentario("¿Que paso?"))
 
-# Modificacion de un atributo.await
+# Modificacion de un atributo ".await".
 class Rombo:
     def __init__(self):
         self.la = False

@@ -7,11 +7,11 @@ ObjetosLetras = ["A", "B", "C", "D", "E", "F", "G", "H"]
 del ObjetosLetras[6]
 print(ObjetosLetras)
 
-# Quitar objetos
+# Quitar objetos.
 # ObjetosLetras.remove("G")
 # print(ObjetosLetras)
 
-# Agregar objetos
+# Agregar objetos.
 # ObjetosLetras.append("I")
 # objetosLetras.insert(0, "I")
 # print(ObjetosLetras)

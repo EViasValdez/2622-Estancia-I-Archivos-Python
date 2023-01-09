@@ -4,7 +4,7 @@ Contador = 1
 Sumatoria = 0
 
 while Contador <= Materias:
-     nombre_materia = input("Ingresa el nombre de la (" + str(Contador) + ") materia: ")
+     NombreMateria = input("Ingresa el nombre de la (" + str(Contador) + ") materia: ")
      calificacion = float(input ("calificacion obtenidas en " + str(NombreMateria) + ": "))
 
 Sumatoria = Sumatoria + calificacion 

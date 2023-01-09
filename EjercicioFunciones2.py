@@ -1,12 +1,12 @@
 from random import *
 
-def genNum(minim, maxim):
+def genNum(Minim, Maxim):
     try:
-        if minim > maxim:
-            aux = minim
-            minim = maxim
-            maxim = aux
-        return randint(minim, maxim)
+        if Minim > Maxim:
+            Aux = Minim
+            Minim = Maxim
+            Maxim = Aux
+        return randint(Minim, Maxim)
     except TypeError:
         print("Debes de escribir numeros")
         return -1

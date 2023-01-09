@@ -36,5 +36,6 @@ objeto = Operaciones()
 print(isinstance(objeto, Operaciones))
 print(isinstance(objeto, Raiz))
 print()
+
 print(issubclass(Operaciones, Calculadora))
 print(issubclass(Calculadora, Operaciones))

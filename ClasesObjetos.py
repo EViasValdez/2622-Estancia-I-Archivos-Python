@@ -1,4 +1,4 @@
-# Clase
+# Clase.
 class Auto:
     Marca = ""
     Modelo = 0
@@ -6,4 +6,4 @@ class Auto:
     Tipo = "Sample Text"
 
 Taxi = Auto()
-print(taxi.Placa)
+print(Taxi.Placa)
