@@ -24,8 +24,8 @@ class Pastel:
     @staticmethod
     def tamaño_area (A):
         return A **2* math.pi
-nuevo_pastel = Pastel(["harina", "azucar", "leche", "crema"], 4)
+NuevoPastel = Pastel(["harina", "azucar", "leche", "crema"], 4)
 
-print(nuevo_pastel.ingredientes)
-print(nuevo_pastel.tamaño)
-print(nuevo_pastel.tamaño_area(20))
+print(NuevoPastel.ingredientes)
+print(NuevoPastel.tamaño)
+print(NuevoPastel.tamaño_area(20))

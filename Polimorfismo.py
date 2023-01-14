@@ -9,10 +9,10 @@ class Esfera (Figura):
 class Cubo (Figura):
     def tipo_figura(self):
        print("Cuadrado")
-nueva_figura = Esfera ("Circular")
-print(nueva_figura.tipo_figura())
-print(nueva_figura.nombre)
+NuevaFigura1 = Esfera ("Circular")
+print(NuevaFigura1.tipo_figura())
+print(NuevaFigura1.nombre)
 
-nueva_figura2 = Cubo ("Cubica")
-print(nueva_figura2.tipo_figura())
-print(nueva_figura2.nombre)
+NuevaFigura2 = Cubo ("Cubica")
+print(NuevaFigura2.tipo_figura())
+print(NuevaFigura2.nombre)

@@ -1,6 +1,6 @@
 # Importamos Tkinter.
 from tkinter import *
-raiz = Tk()
+Raiz = Tk()
 # Importamos messagebox.
 from tkinter import messagebox
 # Importamos filedialog.
@@ -16,53 +16,53 @@ def infoLicencia():
 def salirApp():
     valor = messagebox.askokcancel("salir", "¿Desea salir?")
     if valor == True:
-        raiz.destroy()
+        Raiz.destroy()
 # Cerramos el documento.
 def cerrarDocumento():
     valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
     if valor == False:
-        raiz.destroy()
+        Raiz.destroy()
 # Creamos la funcion abrir archivo.
 def abreArchivo():
-    archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
-    print(archivo)
+    Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
+    print(Archivo)
 
 # Creamos una variable para el menú.
-barraMenu = Menu(raiz)
-raiz.config(menu = barraMenu, width = 300, height = 300)
+BarraMenu = Menu(Raiz)
+Raiz.config(menu = BarraMenu, width = 300, height = 300)
 
 # Establecemos cantidad de elementos.
-archivoMenu = Menu(barraMenu, tearoff = 0)
+ArchivoMenu = Menu(BarraMenu, tearoff = 0)
 
-archivoMenu.add_command(label = "Nuevo")
-archivoMenu.add_command(label = "Abrir", command = abreArchivo)
-archivoMenu.add_separator() # Esta linea genera una linea separadora.
-archivoMenu.add_command(label = "Cerrar", command = cerrarDocumento)
-archivoMenu.add_command(label = "Salir", command = salirApp)
+ArchivoMenu.add_command(label = "Nuevo")
+ArchivoMenu.add_command(label = "Abrir", command = abreArchivo)
+ArchivoMenu.add_separator() # Esta linea genera una linea separadora.
+ArchivoMenu.add_command(label = "Cerrar", command = cerrarDocumento)
+ArchivoMenu.add_command(label = "Salir", command = salirApp)
 
-edicionMenu = Menu(barraMenu, tearoff = 0)
-edicionMenu.add_command(label = "SubElemento 1")
-edicionMenu.add_command(label = "SubElemento 2")
-edicionMenu.add_command(label = "SubElemento 3")
-edicionMenu.add_command(label = "SubElemento 4")
+EdicionMenu = Menu(BarraMenu, tearoff = 0)
+EdicionMenu.add_command(label = "SubElemento 1")
+EdicionMenu.add_command(label = "SubElemento 2")
+EdicionMenu.add_command(label = "SubElemento 3")
+EdicionMenu.add_command(label = "SubElemento 4")
 
-herramientaMenu = Menu(barraMenu, tearoff = 0)
-herramientaMenu.add_command(label = "SubElemento 1")
-herramientaMenu.add_command(label = "SubElemento 2")
-herramientaMenu.add_command(label = "SubElemento 3")
-herramientaMenu.add_command(label = "SubElemento 4")
+HerramientaMenu = Menu(BarraMenu, tearoff = 0)
+HerramientaMenu.add_command(label = "SubElemento 1")
+HerramientaMenu.add_command(label = "SubElemento 2")
+HerramientaMenu.add_command(label = "SubElemento 3")
+HerramientaMenu.add_command(label = "SubElemento 4")
 
-ayudaMenu = Menu(barraMenu, tearoff = 0)
-ayudaMenu.add_command(label = "SubElemento 1")
-ayudaMenu.add_command(label = "SubElemento 2")
-ayudaMenu.add_command(label = "Licencia", command = infoLicencia)
-ayudaMenu.add_command(label = "Acerca del programa", command = infoAdicional)
+AyudaMenu = Menu(BarraMenu, tearoff = 0)
+AyudaMenu.add_command(label = "SubElemento 1")
+AyudaMenu.add_command(label = "SubElemento 2")
+AyudaMenu.add_command(label = "Licencia", command = infoLicencia)
+AyudaMenu.add_command(label = "Acerca del programa", command = infoAdicional)
 
 # Poner en consola.
-barraMenu.add_cascade(label = "Archivo", menu = archivoMenu)
-barraMenu.add_cascade(label = "Edicion", menu = edicionMenu)
-barraMenu.add_cascade(label = "Herramientas", menu = herramientaMenu)
-barraMenu.add_cascade(label = "Ayuda", menu = ayudaMenu)
+BarraMenu.add_cascade(label = "Archivo", menu = ArchivoMenu)
+BarraMenu.add_cascade(label = "Edicion", menu = EdicionMenu)
+BarraMenu.add_cascade(label = "Herramientas", menu = HerramientaMenu)
+BarraMenu.add_cascade(label = "Ayuda", menu = AyudaMenu)
 
 # Mostrar en pantalla.
-raiz.mainloop()
+Raiz.mainloop()

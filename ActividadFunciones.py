@@ -1,7 +1,7 @@
 print("Conversor de monedas")
 print("Por EViasValdez")
 
-def conversor(MonedaActual, Valor, MonedaAConvertir):
+def Conversor(MonedaActual, Valor, MonedaAConvertir):
     if MonedaActual == 1:
         def ToDolar():
             if MonedaAConvertir == "1":
@@ -31,4 +31,4 @@ def conversor(MonedaActual, Valor, MonedaAConvertir):
 MonedaActual = int(input("Ingrese su moneda actual; \n 1. Dolar \n 2. Euro \n"))
 Valor = float(input("Ingrese el valor a convertir: \n"))
 MonedaAConvertir = input("¿A que valor desea convertirlo? \n 1. Pesos Colombianos \n 2. Yuanes \n 3. Libras esterlinas \n")
-conversor(MonedaActual, Valor, MonedaAConvertir)
+Conversor(MonedaActual, Valor, MonedaAConvertir)
