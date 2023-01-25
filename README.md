@@ -15,7 +15,7 @@ uno de los cursos elegidos fue de Python.
 # Descripcion de los programas
 
 ###### Print - 20/05/22
-Texto por ser escrito.
+Programa simple que solo muestra un texto.
 
 ###### PrimerPrograma - 24/05/22
 Texto por ser escrito.
