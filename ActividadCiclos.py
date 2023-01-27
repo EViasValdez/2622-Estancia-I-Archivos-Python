@@ -5,9 +5,9 @@ Sumatoria = 0
 
 while Contador <= Materias:
      NombreMateria = input("Ingresa el nombre de la (" + str(Contador) + ") materia: ")
-     calificacion = float(input ("calificacion obtenidas en " + str(NombreMateria) + ": "))
+     Calificacion = float(input ("calificacion obtenidas en " + str(NombreMateria) + ": "))
 
-Sumatoria = Sumatoria + calificacion 
+Sumatoria = Sumatoria + Calificacion 
 Contador = Contador + 1
 
 Promedio = Sumatoria / Materias
