@@ -1,10 +1,10 @@
 class Persona:
     pass
-    def __init__(self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
+    def __init__(self, Nombre, Edad):
+        self.Nombre = Nombre
+        self.Edad = Edad
 
 class Empleado(Persona):
-    def atributos(self, sueldo):
-        self.nombre = nombre
-        self.edad = edad
+    def Atributos(self, Sueldo):
+        self.Nombre = Nombre
+        self.Edad = Edad

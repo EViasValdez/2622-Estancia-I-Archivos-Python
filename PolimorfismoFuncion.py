@@ -12,10 +12,10 @@ class Manzana:
 def funcion (objeto):
     objeto.tipo()
     objeto.color()
-nuevo_tomate = Tomate
-print (funcion(nuevo_tomate()))
-nuevo_manzana = Manzana
-print(funcion(nuevo_manzana()))
+NuevoTomate = Tomate
+print (funcion(NuevoTomate()))
+NuevaManzana = Manzana
+print(funcion(NuevaManzana()))
 
 # Polimorfismo con metodos.
 class Colombia:

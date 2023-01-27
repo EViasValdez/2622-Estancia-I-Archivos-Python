@@ -1,22 +1,22 @@
 class Persona:
     def __init_(self):
-        self.nombre = input("Ingrese el nombre: ")
-        self.edad = int(input("Ingrese la edad: "))
+        self.Nombre = input("Ingrese el nombre: ")
+        self.Edad = int(input("Ingrese la edad: "))
     def imprimir(self):
-        print("Nombre: ", self.nombre)
-        print("Edad: ",  self.edad)
+        print("Nombre: ", self.Nombre)
+        print("Edad: ",  self.Edad)
 class Ciudadano(Persona):
     def __init__(self):
         super().__init__()
-        self.deposito = float(input("Ingrese el dinero a depositar: "))
+        self.Deposito = float(input("Ingrese el dinero a depositar: "))
     def imprimir(self):
         super().imprimir()
-        print("Deposito: ", self.deposito)
+        print("Deposito: ", self.Deposito)
     def inpuestos(self):
-        if self.deposito > 4000:
-            print(f"El ciudadano {self.nombre} debe pagar impuestos")
+        if self.Deposito > 4000:
+            print(f"El ciudadano {self.Nombre} debe pagar impuestos")
         else:
-            print(f"El ciudadano {self.nombre} no debe pagar impuestos")
+            print(f"El ciudadano {self.Nombre} no debe pagar impuestos")
 
 Cuidadano1 = Ciudadano()
 Cuidadano1.imprimir()

@@ -1,4 +1,4 @@
-agenda = {
+Agenda = {
     "Maria": 395478,
     "Yolanda": 102395,
     "Monserrat": 481293,
@@ -26,31 +26,31 @@ while Consultando:
         if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
-            telefono = Agenda[Nombre]
-            print(Nombre, ":", telefono)
+            Telefono = Agenda[Nombre]
+            print(Nombre, ":", Telefono)
     elif Opcion == "2":
         Nombre = input("Nombre: ")
         if Nombre in Agenda:
             print("Este nombre ya esta en la agenda")
         else:
-            telefono = int(input("Ingrese el telefono: "))
-            Agenda[Nombre] = telefono
-            print("El telefono se ha añadido correctamente")
+            Telefono = int(input("Ingrese el telefono: "))
+            Agenda[Nombre] = Telefono
+            print("El Telefono se ha añadido correctamente")
     elif Opcion == "3":
         Nombre = input("Nombre: ")
         if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
-            telefono = int(input("Ingrese el telefono: "))
-            Agenda[Nombre] = telefono
-            print("El telefono se ha modificado correctamente")
+            Telefono = int(input("Ingrese el telefono: "))
+            Agenda[Nombre] = Telefono
+            print("El Telefono se ha modificado correctamente")
     elif Opcion == "4":
         Nombre = input("Nombre: ")
         if Nombre not in Agenda:
             print("Este nombre no existe en la agenda")
         else:
             del Agenda[Nombre]
-            print("El telefono se ha borrado correctamente")
+            print("El Telefono se ha borrado correctamente")
     elif Opcion == "5":
         Consultado = False
         print("Gracias por usar este programa")
