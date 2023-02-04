@@ -13,17 +13,17 @@ def infoAdicional():
 def infoLicencia():
     messagebox.showwarning("Licencia", "Licencia activada")
 # Creamos una ventana de pregunta.
-def salirApp():
-    valor = messagebox.askokcancel("salir", "¿Desea salir?")
-    if valor == True:
+def SalirApp():
+    Valor = messagebox.askokcancel("salir", "¿Desea salir?")
+    if Valor == True:
         Raiz.destroy()
 # Cerramos el documento.
-def cerrarDocumento():
-    valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
-    if valor == False:
+def CerrarDocumento():
+    Valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
+    if Valor == False:
         Raiz.destroy()
 # Creamos la funcion abrir archivo.
-def abreArchivo():
+def AbreArchivo():
     Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
     print(Archivo)
 
@@ -35,10 +35,10 @@ Raiz.config(menu = BarraMenu, width = 300, height = 300)
 ArchivoMenu = Menu(BarraMenu, tearoff = 0)
 
 ArchivoMenu.add_command(label = "Nuevo")
-ArchivoMenu.add_command(label = "Abrir", command = abreArchivo)
+ArchivoMenu.add_command(label = "Abrir", command = AbreArchivo)
 ArchivoMenu.add_separator() # Esta linea genera una linea separadora.
-ArchivoMenu.add_command(label = "Cerrar", command = cerrarDocumento)
-ArchivoMenu.add_command(label = "Salir", command = salirApp)
+ArchivoMenu.add_command(label = "Cerrar", command = CerrarDocumento)
+ArchivoMenu.add_command(label = "Salir", command = SalirApp)
 
 EdicionMenu = Menu(BarraMenu, tearoff = 0)
 EdicionMenu.add_command(label = "SubElemento 1")
