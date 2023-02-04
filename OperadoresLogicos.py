@@ -3,9 +3,9 @@ A = 10
 B = 14
 C = 14
 
-resultado = ((A < B) or (B < C))
+Resultado = ((A < B) or (B < C))
 
-print(resultado)
+print(Resultado)
 
 # Operaciones de asignacion.
 a = 0

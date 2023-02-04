@@ -1,19 +1,19 @@
 class Figura:
     pass
-    def __init__(self,nombre, tipo) -> None:
-        self.nombre = nombre
-        self.tipo = tipo
+    def __init__(self, Nombre, Tipo) -> None:
+        self.Nombre = Nombre
+        self.Tipo = Tipo
     def descripcion(self):
-        return "{} es una figura de tipo {}".format(self.nombre, self.tipo)
+        return "{} es una figura de Tipo {}".format(self.Nombre, self.Tipo)
 
 class cubo(Figura):
-    def detalles(self, tipodetalles):
-        return "{} tiene cuatro lados {}".format(self.nombre, tipodetalles)
+    def detalles(self, TipoDetalles):
+        return "{} tiene cuatro lados {}".format(self.Nombre, TipoDetalles)
 
 class circulo(Figura):
-    def detalles(self, tipodetalles):
-        return "{} tiene cuatro lados {}".format(self.nombre, tipodetalles)
+    def detalles(self, TipoDetalles):
+        return "{} tiene cuatro lados {}".format(self.Nombre, TipoDetalles)
 
-objeto_nuevo = cubo("Cubo","Electrico")
-print(objeto_nuevo.descripcion())
-print(objeto_nuevo.detalles("Cubico"))
+ObjetoNuevo = cubo("Cubo","Electrico")
+print(ObjetoNuevo.descripcion())
+print(ObjetoNuevo.detalles("Cubico"))

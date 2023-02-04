@@ -1,9 +1,9 @@
 class Calculadora:
-    def __init__(self, n1, n2):
-        self.Suma = n1 + n2
-        self.Resta = n1 - n2
-        self.Multiplicacion = n1 * n2
-        self.Division = n1 / n2
+    def __init__(self, N1, N2):
+        self.Suma = N1 + N2
+        self.Resta = N1 - N2
+        self.Multiplicacion = N1 * N2
+        self.Division = N1 / N2
 
 Operacion = Calculadora(10, 4)
 print(Operacion.Suma)

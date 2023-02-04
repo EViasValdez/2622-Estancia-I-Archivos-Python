@@ -44,9 +44,9 @@ class Aguila(Aves):
 class Gallina(Aves):
     def volar(self):
         print("Las gallinas no pueden volar")
-obj_Aves = Aves()
-obj_Aguila = Aguila()
-Obj_gallina = Gallina()
-print(obj_Aves.volar())
-print(obj_Aguila.volar())
-print(Obj_gallina.volar())
+ObjAves = Aves()
+ObjAguila = Aguila()
+ObjGallina = Gallina()
+print(ObjAves.volar())
+print(ObjAguila.volar())
+print(ObjGallina.volar())
