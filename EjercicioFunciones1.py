@@ -1,8 +1,8 @@
 def holamundo():
     print("Hola mundo")
 
-def sumanumeros(n1, n2):
-    return n1 + n2
+def sumanumeros(N1, N2):
+    return N1 + N2
 
 def par(numero):
     return (numero % 2 == 0)
