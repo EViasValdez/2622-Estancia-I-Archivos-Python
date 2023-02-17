@@ -8,13 +8,13 @@ Resultado = ((A < B) or (B < C))
 print(Resultado)
 
 # Operaciones de asignacion.
-a = 0
+A = 0
 
-a += 5
-a -= 2
-a *= 3
-a /= 3
-a **= 2
-a %= 2
+A += 5
+A -= 2
+A *= 3
+A /= 3
+A **= 2
+A %= 2
 
-print(a)
+print(A)
