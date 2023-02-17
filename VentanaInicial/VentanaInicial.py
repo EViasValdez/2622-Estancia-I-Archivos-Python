@@ -1,13 +1,13 @@
 from tkinter import *
 
-principal = Tk()
-principal.title("Ventana")
+Principal = Tk()
+Principal.title("Ventana")
 
-# principal.resizable(False, False)
+# Principal.resizable(False, False)
 
-principal.iconbitmap("python.ico")
-principal.geometry("650x580")
-principal.config(bg = "red")
+Principal.iconbitmap("python.ico")
+Principal.geometry("650x580")
+Principal.config(bg = "red")
 
 FrameNuevo = Frame()
 FrameNuevo.pack(fill = "x")
@@ -16,4 +16,4 @@ FrameNuevo.config(width = "325", height = "290")
 FrameNuevo.config(bd = 8)
 FrameNuevo.config(relief = "sunken")
 FrameNuevo.config(cursor = "hand2")
-principal.mainloop()
+Principal.mainloop()
