@@ -3,36 +3,36 @@ class Tomate:
     def tipo(self):
         print("Es un vegetal")
     def color(self):
-        print("Es de colo rojo")
+        print("Es de color rojo")
 class Manzana:
     def tipo(self):
         print("Es una fruta")
     def color(self):
-        print("Es de colo verde")
-def funcion (objeto):
+        print("Es de color verde")
+def Funcion (objeto):
     objeto.tipo()
     objeto.color()
 NuevoTomate = Tomate
-print (funcion(NuevoTomate()))
+print (Funcion(NuevoTomate()))
 NuevaManzana = Manzana
-print(funcion(NuevaManzana()))
+print(Funcion(NuevaManzana()))
 
 # Polimorfismo con metodos.
 class Colombia:
-    def capital(self):
+    def Capital(self):
         print(" La capital es Bogota")
-    def idioma(self):
+    def Idioma(self):
         print("Es español")
 class Francia:
-    def capital(self):
+    def Capital(self):
         print(" La capital es Paris")
-    def idioma(self):
+    def Idioma(self):
         print("Es frances")
 Colombiano = Colombia() # 1 Objeto.
 Frances = Francia() # 2 Objeto.
 for pais in (Colombiano, Frances):
-    print(pais.capital())
-    print(pais.idioma())
+    print(pais.Capital())
+    print(pais.Idioma())
 
 # Polimorfismo con herencia.
 class Aves:

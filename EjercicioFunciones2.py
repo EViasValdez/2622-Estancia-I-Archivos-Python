@@ -1,6 +1,6 @@
 from random import *
 
-def genNum(Minim, Maxim):
+def GenNum(Minim, Maxim):
     try:
         if Minim > Maxim:
             Aux = Minim
@@ -13,5 +13,5 @@ def genNum(Minim, Maxim):
 
 i = 0
 while i < 20:
-    print(genNum(1,100))
+    print(GenNum(1,100))
     i = i + 1
