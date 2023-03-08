@@ -15,4 +15,4 @@ Calificacion2 = Examen2 * 0.25
 Calificacion3 = Examen3 * 0.5
 Promedio = (Calificacion1 + Calificacion2 + Calificacion3) / 3
 
-print("El promedio del alumno es de: " + str(promedio))
+print("El promedio del alumno es de: " + str(Promedio))

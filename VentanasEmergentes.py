@@ -7,10 +7,10 @@ from tkinter import messagebox
 from tkinter import filedialog
 
 # Creamos una ventana con información.
-def infoAdicional():
+def InfoAdicional():
     messagebox.showinfo("Titulo del programa", "Inserte titulo aqui")
 # Creamos una ventana con advertencia.
-def infoLicencia():
+def InfoLicencia():
     messagebox.showwarning("Licencia", "Licencia activada")
 # Creamos una ventana de pregunta.
 def SalirApp():
@@ -55,8 +55,8 @@ HerramientaMenu.add_command(label = "SubElemento 4")
 AyudaMenu = Menu(BarraMenu, tearoff = 0)
 AyudaMenu.add_command(label = "SubElemento 1")
 AyudaMenu.add_command(label = "SubElemento 2")
-AyudaMenu.add_command(label = "Licencia", command = infoLicencia)
-AyudaMenu.add_command(label = "Acerca del programa", command = infoAdicional)
+AyudaMenu.add_command(label = "Licencia", command = InfoLicencia)
+AyudaMenu.add_command(label = "Acerca del programa", command = InfoAdicional)
 
 # Poner en consola.
 BarraMenu.add_cascade(label = "Archivo", menu = ArchivoMenu)
