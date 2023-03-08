@@ -1,31 +1,31 @@
 class Pastel:
-    def __init__(self,ingredientes):
-        self.ingredientes = ingredientes
+    def __init__(self, Ingredientes):
+        self.Ingredientes = Ingredientes
     def __repr__(self):
-        return f"Pastel {self.ingredientes !r}"
+        return f"Pastel {self.Ingredientes !r}"
     @classmethod
-    def Paste_chocolate (cls):
-        return cls (["harina","leche","chocolate"])
+    def PastelChocolate (cls):
+        return cls (["Harina","Leche","Chocolate"])
     @classmethod
-    def Pastel_vainilla (cls):
-        return cls (["harina","leche","vainilla"])
-print(Pastel.Paste_chocolate())
-print(Pastel.Pastel_vainilla())
+    def PastelVainilla (cls):
+        return cls (["Harina","Leche","Vainilla"])
+print(Pastel.PastelChocolate())
+print(Pastel.PastelVainilla())
 
-import math
+import Math
 class Pastel:
-    def __init__(self, ingredientes, tamaño):
-        self.ingredientes= ingredientes
-        self.tamaño = tamaño
+    def __init__(self, Ingredientes, Tamaño):
+        self.Ingredientes = Ingredientes
+        self.Tamaño = Tamaño
     def __repr__(self):
-        return f"Pastel {self.ingredientes} " f"{self.tamaño}"
+        return f"Pastel {self.Ingredientes} " f"{self.Tamaño}"
     def area (self):
-        return self.tamaño_area (self.tamaño)
+        return self.TamañoArea (self.Tamaño)
     @staticmethod
-    def tamaño_area (A):
-        return A **2* math.pi
-NuevoPastel = Pastel(["harina", "azucar", "leche", "crema"], 4)
+    def TamañoArea (A):
+        return A **2* Math.pi
+NuevoPastel = Pastel(["Harina", "Azucar", "Leche", "Crema"], 4)
 
-print(NuevoPastel.ingredientes)
-print(NuevoPastel.tamaño)
-print(NuevoPastel.tamaño_area(20))
+print(NuevoPastel.Ingredientes)
+print(NuevoPastel.Tamaño)
+print(NuevoPastel.TamañoArea(20))
