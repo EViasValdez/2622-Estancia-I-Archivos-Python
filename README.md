@@ -20,12 +20,12 @@ Programa simple que solo muestra un texto.
 <!----Separador---->
 
 ###### PrimerPrograma - 24/05/22
-Texto por ser escrito.
+Utilizacion de una variable de tipo String.
 
 <!----Separador---->
 
 ##### OperadoresLogicos - 30/05/22
-Texto por ser escrito.
+Se muestra si varios valores son mayores o menores.
 
 <!----Separador---->
 
