@@ -34,6 +34,14 @@ Texto por ser escrito.
 
 <!----Separador---->
 
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 ##### Bucle - 06/06/22
 Texto por ser escrito.
 
@@ -64,12 +72,32 @@ Texto por ser escrito.
 
 <!----Separador---->
 
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 ##### ClasesObjetos - 06/07/22
 Texto por ser escrito.
 
 <!----Separador---->
 
 ##### Metodos, MetodosInit, CalculadoraMetodos, FuncionesAtributos - 07/07/22
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 Texto por ser escrito.
 
 <!----Separador---->

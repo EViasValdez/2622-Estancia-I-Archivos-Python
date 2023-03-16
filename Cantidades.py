@@ -23,5 +23,4 @@ def Cantidades():
     print("Las cantidades menores a cero son: " + str(A))
     print("Las cantidades iguales a cero son: " + str(B))
     print("Las cantidades mayores a cero son: " + str(C))
-
 Cantidades()

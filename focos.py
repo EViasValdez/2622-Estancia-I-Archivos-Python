@@ -26,5 +26,4 @@ def FabricaFocos():
     print("El total de focos rojos es: " + str(V))
     print("El total de focos amarillos es: " + str(B))
     print("El total de focos azules es: " + str(R))
-
 FabricaFocos()
