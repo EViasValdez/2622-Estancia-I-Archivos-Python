@@ -30,9 +30,9 @@ class Francia:
         print("Es frances")
 Colombiano = Colombia() # 1 Objeto.
 Frances = Francia() # 2 Objeto.
-for pais in (Colombiano, Frances):
-    print(pais.Capital())
-    print(pais.Idioma())
+for Pais in (Colombiano, Frances):
+    print(Pais.Capital())
+    print(Pais.Idioma())
 
 # Polimorfismo con herencia.
 class Aves:

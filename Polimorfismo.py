@@ -1,18 +1,18 @@
 class Figura:
     def __init__(self,nombre):
         self.Nombre = Nombre
-    def tipo_figura(self):
+    def TipoFigura(self):
         pass
 class Esfera (Figura):
-    def tipo_figura(self):
+    def TipoFigura(self):
         print("Circulo")
 class Cubo (Figura):
-    def tipo_figura(self):
+    def TipoFigura(self):
        print("Cuadrado")
 NuevaFigura1 = Esfera ("Circular")
-print(NuevaFigura1.tipo_figura())
+print(NuevaFigura1.TipoFigura())
 print(NuevaFigura1.Nombre)
 
 NuevaFigura2 = Cubo ("Cubica")
-print(NuevaFigura2.tipo_figura())
+print(NuevaFigura2.TipoFigura())
 print(NuevaFigura2.Nombre)

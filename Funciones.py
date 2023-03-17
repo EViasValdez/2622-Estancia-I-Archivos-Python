@@ -1,5 +1,5 @@
-def funcion(Texto):
+def Funcion(Texto):
     print(f'Usted tiene este texto: {Texto}')
 
 print('Comienzo del programa')
-funcion("Hola")
+Funcion("Hola")
