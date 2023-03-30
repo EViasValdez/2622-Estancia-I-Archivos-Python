@@ -6,5 +6,5 @@ print("Inversión inicial: ", precio)
 Interes = 0.15 * 1500
 Ahorros = Año * Interes
 
-print ("Intereses generados en un año: " , Interes)
+print ("Intereses generados en un año: ", Interes)
 print ("Las ganancias obtenidas hasta 2022 son: ", Ahorros)
