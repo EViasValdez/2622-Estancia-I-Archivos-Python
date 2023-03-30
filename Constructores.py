@@ -17,10 +17,10 @@ print(Figura.comentario("¿Que paso?"))
 class Rombo:
     def __init__(self):
         self.la = False
-    def enviar_rombo(self):
+    def EnviarRombo(self):
         self.En = True
 
 Figu = Rombo()
 print(Figu.En)
-Figu.enviar_rombo()
+Figu.EnviarRombo()
 print(Figu.En)

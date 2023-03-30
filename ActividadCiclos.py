@@ -1,4 +1,4 @@
-Nombre = input ("Nombre completo: " )
+Nombre = input ("Nombre completo: ")
 Materias = 5
 Contador = 1 
 Sumatoria = 0
