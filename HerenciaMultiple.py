@@ -14,7 +14,7 @@ class Reproduccion:
     def __init__(self):
         pass
     def ReproduccionVideo(self):
-        print("Reproduciendo video...")
+        print("Reproduciendo video....")
     def ReproduccionMusica(self):
         print("Reproduciendo musica...")
 class TelefonoCelular (Telefono, Camara, Reproduccion):
