@@ -24,5 +24,5 @@ if Clave == 3:
 
 Resultado = Clave * Precio
 
-print("Clave elegida ", Clave, "Cantidad de", Cantidad, "autos", "Costo total", Precio)
+print("Clave elegida ", Clave, "Cantidad de ", Cantidad, "autos", "Costo total ", Precio)
 print("El % a pagar de los valores ingresados son: ", Resultado)
