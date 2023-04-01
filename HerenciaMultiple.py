@@ -14,12 +14,12 @@ class Reproduccion:
     def __init__(self):
         pass
     def ReproduccionVideo(self):
-        print("Reproduciendo video...")
+        print("Reproduciendo video....")
     def ReproduccionMusica(self):
-        print("Reproduciendo musica...")
+        print("Reproduciendo musica....")
 class TelefonoCelular (Telefono, Camara, Reproduccion):
     def __del__(self):
-        print("Telefono apagado...")
+        print("Telefono apagado....")
 
 Celular = TelefonoCelular()
 Repr = Reproduccion()
