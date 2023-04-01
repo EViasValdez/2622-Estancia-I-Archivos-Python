@@ -14,6 +14,6 @@ class circulo(Figura):
     def Detalles(self, TipoDetalles):
         return "{} tiene cuatro lados {}".format(self.Nombre, TipoDetalles)
 
-ObjetoNuevo = cubo("Cubo","Electrico")
+ObjetoNuevo = cubo("Cubo", "Electrico")
 print(ObjetoNuevo.Descripcion())
 print(ObjetoNuevo.Detalles("Cubico"))
