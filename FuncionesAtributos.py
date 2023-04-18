@@ -1,12 +1,12 @@
 class Televisor:
     Tipo = "Grande"
-    marca = "Hisense"
+    Marca = "Hisense"
 
 TV = Televisor()
-print("La marca de este televisor es", TV.marca)
+print("La marca de este televisor es", TV.Marca)
 print("La marca de este televisor es", getattr(TV, "marca"))
 print("¿La pantalla es grande?", hasattr(TV, "Tipo"))
 
-print("Antes era", TV.marca)
+print("Antes era", TV.Marca)
 setattr(TV, "marca", "Sony")
-print("Ahora es", TV.marca)
+print("Ahora es", TV.Marca)

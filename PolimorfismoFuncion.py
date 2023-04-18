@@ -36,17 +36,17 @@ for Pais in (Colombiano, Frances):
 
 # Polimorfismo con herencia.
 class Aves:
-    def volar(self):
+    def Volar(self):
         print("La mayoria de aves pueden volar")
 class Aguila(Aves):
-    def volar(self):
+    def Volar(self):
         print("Las aguilas pueden volar")
 class Gallina(Aves):
-    def volar(self):
+    def Volar(self):
         print("Las gallinas no pueden volar")
 ObjAves = Aves()
 ObjAguila = Aguila()
 ObjGallina = Gallina()
-print(ObjAves.volar())
-print(ObjAguila.volar())
-print(ObjGallina.volar())
+print(ObjAves.Volar())
+print(ObjAguila.Volar())
+print(ObjGallina.Volar())
