@@ -6,7 +6,7 @@ class Figura:
     def Descripcion(self):
         return "{} es una figura de Tipo {}".format(self.Nombre, self.Tipo)
 
-class cubo(Figura):
+class Cubo(Figura):
     def Detalles(self, TipoDetalles):
         return "{} tiene cuatro lados {}".format(self.Nombre, TipoDetalles)
 
@@ -14,6 +14,6 @@ class circulo(Figura):
     def Detalles(self, TipoDetalles):
         return "{} tiene cuatro lados {}".format(self.Nombre, TipoDetalles)
 
-ObjetoNuevo = cubo("Cubo", "Electrico")
+ObjetoNuevo = Cubo("Cubo", "Electrico")
 print(ObjetoNuevo.Descripcion())
 print(ObjetoNuevo.Detalles("Cubico"))
