@@ -24,7 +24,7 @@ class Operaciones (Calculadora):
         D = A / B
         print (f"El restultado es: {D}")
 
-class Raiz (Calculadora):
+class Raiz(Calculadora):
     def __init__(self):
         Calculadora.__init__(self,1)
     def Cuadrada(self):
