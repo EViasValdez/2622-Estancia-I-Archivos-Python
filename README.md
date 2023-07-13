@@ -29,11 +29,11 @@ Se muestra si varios valores son mayores o menores.
 <!----Separador---->
 
 ##### Salidayentradadedatos, Condicionales, Calculadora - 04/06/22
-Texto por ser escrito.
+Ingreso de datos.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Muestra de numeros positivos y verificacion de numeros.
 
 <!----Separador---->
 
