@@ -145,5 +145,27 @@ Texto por ser escrito.
 ##### CompañiaAutobuses, CompañiaTelefonos, PromedioAlumno, UsoEstacionamiento, SalarioTrabajador, Ejerlibr1, Ejerlibr2, Ejerlibr3, Ejerlibr4, Automotriz - 09/08/22
 Texto por ser escrito.
 
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 
 <!----Separador del directorio con ubicación de archivos---->
