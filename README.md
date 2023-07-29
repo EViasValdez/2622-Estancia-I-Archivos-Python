@@ -165,6 +165,4 @@ Texto por ser escrito.
 
 Texto por ser escrito.
 
-<!----Separador---->
-
 <!----Separador del directorio con ubicación de archivos---->
