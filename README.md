@@ -43,7 +43,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### Contrasenia - 10/06/22
-Texto por ser escrito.
+Ejemplo de inicio de sesion.
 
 <!----Separador---->
 
@@ -138,7 +138,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### ActividadPoo - 29/07/22
-Texto por ser escrito.
+Programa que utiliza la programacion orientada a objetos.
 
 <!----Separador---->
 
@@ -166,6 +166,5 @@ Texto por ser escrito.
 Texto por ser escrito.
 
 <!----Separador---->
-
 
 <!----Separador del directorio con ubicación de archivos---->
