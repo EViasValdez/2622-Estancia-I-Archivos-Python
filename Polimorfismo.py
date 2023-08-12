@@ -1,5 +1,5 @@
 class Figura:
-    def __init__(self,nombre):
+    def __init__(self, nombre):
         self.Nombre = Nombre
     def TipoFigura(self):
         pass

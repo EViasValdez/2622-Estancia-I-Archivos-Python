@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Cada archivo debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar cambios a uno que otro archivo.**
+**- Ninguna de momento.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
@@ -113,9 +113,11 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### LeeryEditarArchivo, EliminarArchivo - 16/07/22 
-Texto por ser escrito.
+Lectura y edicion de un archivo.
 
 <!----Separador---->
+
+Eliminacion de un archivo este debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
 
 ##### CuadroTexto, CuadroTextoBotones - 21/07/22
 Texto por ser escrito.
