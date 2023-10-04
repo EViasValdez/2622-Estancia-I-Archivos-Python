@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Ninguna de momento.**
+**- Agregue lo que se pudo compilar de varios de los programas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
