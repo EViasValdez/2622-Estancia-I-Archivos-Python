@@ -3,6 +3,8 @@
 <!----Notas---->
 **Notas**
 
+**- Se tienen incluidos los programas realizados con un motor grafico de ventanas.**
+
 **- Agregue lo que se pudo compilar de varios de los programas.**
 <!----Separador de las notas---->
 
