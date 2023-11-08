@@ -1,0 +1,43 @@
+from tkinter import *
+
+VentanaPrincipal = Tk()
+MiNombre = StringVar()
+FramePrincipal = Frame(VentanaPrincipal, width = 800, height = 400)
+FramePrincipal.pack()
+
+CuadroNombre = Entry(FramePrincipal, textvariable = MiNombre)
+CuadroNombre.grid(row = 0, column = 1, padx = 10, pady = 10)
+CuadroNombre.config(fg = "red", justify = "center",)
+CuadroApellido = Entry(FramePrincipal)
+CuadroApellido.grid(row = 1, column = 1, padx = 10, pady = 10)
+CuadroApellido.config(fg = "red", justify = "center",)
+CuadroDireccion = Entry(FramePrincipal)
+CuadroDireccion.grid(row = 2, column = 1, padx = 10, pady = 10)
+CuadroDireccion.config(fg = "red", justify = "center",)
+CuadroPass = Entry(FramePrincipal)
+CuadroPass.grid(row = 3, column = 1, padx = 10, pady = 10)
+CuadroPass.config(fg = "red", justify = "center")
+CuadroPass.config(show = "*")
+CuadroComentario = Text(FramePrincipal, width = 16, height = 5)
+CuadroComentario.grid(row = 4, column = 1, padx = 10, pady = 10)
+ScrolllVertical = Scrollbar(FramePrincipal, command = CuadroComentario.yview)
+ScrolllVertical.grid(row = 4, column = 2, padx = 50, pady = 30, sticky = "nsew")
+CuadroComentario.config(yscrollcommand = ScrolllVertical.set, fg = "red")
+
+NombreLabel = Label(FramePrincipal, text="Nombre: ")
+NombreLabel.grid(row = 0, column = 0, sticky = "e", padx = 10, pady = 10)
+ApellidoLabel = Label(FramePrincipal, text = "Apellido: ")
+ApellidoLabel.grid(row = 1, column = 0, sticky = "e", padx = 10, pady = 10)
+DireccionLabel = Label(FramePrincipal, text="Direccion: ")
+DireccionLabel.grid(row = 2, column = 0, sticky = "e", padx = 10, pady = 10)
+PassLabel = Label(FramePrincipal, text="Contrasenia: ")
+PassLabel.grid(row = 3, column = 0, sticky = "e", padx = 10, pady = 10)
+ComentarioLabel = Label(FramePrincipal, text="Comentario: ")
+ComentarioLabel.grid(row = 4, column = 0, sticky = "e", padx = 10, pady = 10)
+
+def codigoBoton():
+    MiNombre.set("enviado")
+BotonEnvio = Button(VentanaPrincipal, text= "Enviar")
+BotonEnvio.pack()
+
+VentanaPrincipal.mainloop()
