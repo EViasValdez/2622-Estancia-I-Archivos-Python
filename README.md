@@ -105,11 +105,27 @@ Ejemplo del metodo constructor y modificacion de un atributo.
 <!----Separador---->
 
 ##### EjercicioHerencia, HerenciaMultiple, F-String - 13/07/22
-Texto por ser escrito.
+Calculadora que utiliza clases y herencias.
+
+<!----Separador---->
+
+Uso de la herencia multiple en telefono y camara.
+
+<!----Separador---->
+
+Auto registro de un F-String.
 
 <!----Separador---->
 
 ##### MetodosClaseyEstaticos, Polimorfismo, PolimorfismoFuncion - 14/07/22
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 Texto por ser escrito.
 
 <!----Separador---->
@@ -132,6 +148,18 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### ActividadOperadores, ActividadCondicionales, ActividadCiclos, ActividadFunciones - 23/07/22
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
 Texto por ser escrito.
 
 <!----Separador---->

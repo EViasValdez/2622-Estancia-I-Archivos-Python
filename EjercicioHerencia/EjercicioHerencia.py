@@ -4,7 +4,7 @@ class Calculadora:
         self.Datos = [0 for i in range (Numero)]
     def IngresarDato (self):
         self.Datos = [int(input("Ingresar dato " + str(i + 1)+": ")) for i in range(self.n)]
-class Operaciones (Calculadora):
+class Operaciones(Calculadora):
     def __init__(self):
         Calculadora.__init__(self, 2)
     def Suma(self):
