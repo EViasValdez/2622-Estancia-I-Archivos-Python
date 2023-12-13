@@ -65,42 +65,42 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### EjercicioFunciones1, EjercicioFunciones2, EjercicioFunciones3 - 05/07/22
-Texto por ser escrito.
+Utilizacion de funciones y definicion de parametros.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Programacion de parametros a traves de la generacion de numeros.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Definicion factorial y de numeros enteros.
 
 <!----Separador---->
 
 ##### ClasesObjetos - 06/07/22
-Texto por ser escrito.
+Ejemplo de clases uitilizando la informacion de un automovil.
 
 <!----Separador---->
 
 ##### Metodos, MetodosInit, CalculadoraMetodos, FuncionesAtributos - 07/07/22
-Texto por ser escrito.
+Programacion de una suma usando metodos.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Similar al programa "ClasesObjetos", aunque aqui se utiliza la informacion de una computadora.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Calculadora con funciones a traves de metodos.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Tambien como "ClasesObjetos", se usa informacion de un televisor.
 
 <!----Separador---->
 
 ##### Constructores - 08/07/22
-Texto por ser escrito.
+Ejemplo del metodo constructor y modificacion de un atributo.
 
 <!----Separador---->
 
