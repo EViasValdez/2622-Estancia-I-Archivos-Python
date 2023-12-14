@@ -118,7 +118,7 @@ Auto registro de un F-String.
 <!----Separador---->
 
 ##### MetodosClaseyEstaticos, Polimorfismo, PolimorfismoFuncion - 14/07/22
-Texto por ser escrito.
+Programa que hace uso de los metodos clase y metodos estaticos.
 
 <!----Separador---->
 
