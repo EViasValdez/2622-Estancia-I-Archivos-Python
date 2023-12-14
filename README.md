@@ -40,7 +40,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### Bucle - 06/06/22
-Texto por ser escrito.
+Programa de ejemplo que utiliza el bucle como caracteristica.
 
 <!----Separador---->
 
