@@ -9,6 +9,7 @@ class Esfera (Figura):
 class Cubo (Figura):
     def TipoFigura(self):
        print("Cuadrado")
+       
 NuevaFigura1 = Esfera ("Circular")
 print(NuevaFigura1.TipoFigura())
 print(NuevaFigura1.Nombre)

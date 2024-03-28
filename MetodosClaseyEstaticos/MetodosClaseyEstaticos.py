@@ -5,10 +5,10 @@ class Pastel:
         return f"Pastel {self.Ingredientes !r}"
     @classmethod
     def PastelChocolate(cls):
-        return cls(["Harina","Leche","Chocolate"])
+        return cls(["Harina", "Leche", "Chocolate"])
     @classmethod
     def PastelVainilla(cls):
-        return cls(["Harina","Leche","Vainilla"])
+        return cls(["Harina", "Leche", "Vainilla"])
 print(Pastel.PastelChocolate())
 print(Pastel.PastelVainilla())
 

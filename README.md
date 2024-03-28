@@ -121,12 +121,12 @@ Auto registro de un F-String.
 Programa que hace uso de los metodos clase y metodos estaticos.
 
 <!----Separador---->
-
-Texto por ser escrito.
+ 
+A traves de figuras se hace uso del poliformismo
 
 <!----Separador---->
 
-Texto por ser escrito.
+Tiene similitud con el anterior, aqui se utiliza el metodo ya visto con funciones.
 
 <!----Separador---->
 
