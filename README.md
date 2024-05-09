@@ -135,7 +135,7 @@ Lectura y edicion de un archivo.
 
 <!----Separador---->
 
-Eliminacion de un archivo este debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
+Eliminacion de un archivo este programa debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
 
 ##### CuadroTexto, CuadroTextoBotones - 21/07/22
 Texto por ser escrito.
@@ -148,11 +148,11 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### ActividadOperadores, ActividadCondicionales, ActividadCiclos, ActividadFunciones - 23/07/22
-Texto por ser escrito.
+Calculadora que funciona por medio de operaciones.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Revision e ingreso de pagos en la cuenta..
 
 <!----Separador---->
 
