@@ -156,7 +156,7 @@ Revision e ingreso de pagos en la cuenta..
 
 <!----Separador---->
 
-Texto por ser escrito.
+Sistema de calificacion usando ciclos.
 
 <!----Separador---->
 
