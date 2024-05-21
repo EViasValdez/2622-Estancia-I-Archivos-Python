@@ -1,5 +1,5 @@
-Numero1 = int(input("Ingresa el primer numero " ))
-Numero2 = int(input("Ingresa el segundo numero " ))
+Numero1 = int(input("Ingresa el primer número " ))
+Numero2 = int(input("Ingresa el segundo número " ))
 
 print(f"La suma es {Numero1 + Numero2}")
 print(f"La resta es {Numero1 - Numero2}")

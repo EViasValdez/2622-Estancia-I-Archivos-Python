@@ -1,12 +1,12 @@
 print("==== Automotriz Calarin ====")
 input()
 
-print("Clave del vehiculo")
-print("Indicar la clave del vehiculo (1, 2, 3): ")
+print("Clave del vehículo")
+print("Indicar la clave del vehículo (1, 2, 3): ")
 Clave = int(input())
 print("Cantidad de carros a calcular el %")
 Cantidad = int(input())
-print("Precio bruto del lote de vehiculos")
+print("Precio bruto del lote de vehículos")
 Precio = int(input())
 
 Uno = 1 + 0.10

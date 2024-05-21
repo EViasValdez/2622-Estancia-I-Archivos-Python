@@ -8,7 +8,7 @@ from tkinter import filedialog
 
 # Creamos una ventana con información.
 def InfoAdicional():
-    messagebox.showinfo("Titulo del programa", "Inserte titulo aqui")
+    messagebox.showinfo("Titulo del programa", "Inserte título aquí")
 # Creamos una ventana con advertencia.
 def InfoLicencia():
     messagebox.showwarning("Licencia", "Licencia activada")
@@ -22,7 +22,7 @@ def CerrarDocumento():
     Valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
     if Valor == False:
         Raiz.destroy()
-# Creamos la funcion abrir archivo.
+# Creamos la función abrir archivo.
 def AbreArchivo():
     Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
     print(Archivo)
