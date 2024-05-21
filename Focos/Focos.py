@@ -12,7 +12,7 @@ def FabricaFocos():
     C = int(input("Ingrese cantidad de focos: "))
 
     while F <= C:
-        N = int(input ("Eliga el color \n 1 - Rojo \n 2 - Amarillo \n 3 - Azul \n"))
+        N = int(input ("Elija el color \n 1 - Rojo \n 2 - Amarillo \n 3 - Azul \n"))
         
         if N == 1:
             V = V + 1

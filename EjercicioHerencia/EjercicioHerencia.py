@@ -10,19 +10,19 @@ class Operaciones(Calculadora):
     def Suma(self):
         A, B, = self.Datos
         S = A + B
-        print (f"El restultado es: {S}")
+        print (f"El resultado es: {S}")
     def Resta(self):
         A, B, = self.Datos
         R = A - B
-        print (f"El restultado es: {R}")
+        print (f"El resultado es: {R}")
     def Multiplicacion(self):
         A, B, = self.Datos
         M = A * B
-        print (f"El restultado es: {M}")
+        print (f"El resultado es: {M}")
     def Division(self):
         A, B, = self.Datos
         D = A / B
-        print (f"El restultado es: {D}")
+        print (f"El resultado es: {D}")
 
 class Raiz(Calculadora):
     def __init__(self):

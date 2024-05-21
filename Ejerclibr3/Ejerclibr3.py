@@ -1,4 +1,4 @@
-n = int(input("Introduzca un numero deseado de la tabla: "))
+n = int(input("Introduzca un número deseado de la tabla: "))
 x = n
 
 for x in range (11):

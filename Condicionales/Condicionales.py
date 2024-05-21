@@ -2,11 +2,11 @@
 Numero = int(input("Ingrese un numero: "));
 
 if Numero > 0:
-    print("El numero es positivo")
+    print("El número es positivo")
 elif Numero == 0:
-    print("El numero no es positivo o negativo")
+    print("El número no es positivo o negativo")
 else:
-    print("El numero es negativo")
+    print("El número es negativo")
 
 # Condicional anidadas / combinadas.
 NumeroRequerido = int(input("Ingrese un numero: "));

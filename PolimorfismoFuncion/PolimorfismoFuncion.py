@@ -1,4 +1,4 @@
-# Polimorfismo con funcion.
+# Polimorfismo con función.
 class Tomate:
     def tipo(self):
         print("Es un vegetal")
@@ -17,17 +17,17 @@ print (Funcion(NuevoTomate()))
 NuevaManzana = Manzana
 print(Funcion(NuevaManzana()))
 
-# Polimorfismo con metodos.
+# Polimorfismo con métodos.
 class Colombia:
     def Capital(self):
-        print(" La capital es Bogota")
+        print(" La capital es Bogotá")
     def Idioma(self):
         print("Es español")
 class Francia:
     def Capital(self):
         print(" La capital es Paris")
     def Idioma(self):
-        print("Es frances")
+        print("Es francés")
 Colombiano = Colombia() # 1 Objeto.
 Frances = Francia() # 2 Objeto.
 for Pais in (Colombiano, Frances):
@@ -37,10 +37,10 @@ for Pais in (Colombiano, Frances):
 # Polimorfismo con herencia.
 class Aves:
     def Volar(self):
-        print("La mayoria de aves pueden volar")
+        print("La mayoría de aves pueden volar")
 class Aguila(Aves):
     def Volar(self):
-        print("Las aguilas pueden volar")
+        print("Las águilas pueden volar")
 class Gallina(Aves):
     def Volar(self):
         print("Las gallinas no pueden volar")

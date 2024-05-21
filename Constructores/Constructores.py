@@ -1,4 +1,4 @@
-# Metodo constructor.
+# Método constructor.
 class Cubo:
     pass
     def __init__(self, Bidimensional, Lados):
@@ -13,7 +13,7 @@ Figura = Cubo("Si", "4")
 print(Figura.Desc())
 print(Figura.Comentario("¿Que paso?"))
 
-# Modificacion de un atributo ".await".
+# Modificación de un atributo ".await".
 class Rombo:
     def __init__(self):
         self.la = False

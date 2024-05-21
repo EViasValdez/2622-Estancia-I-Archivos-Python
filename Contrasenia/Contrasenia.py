@@ -7,4 +7,4 @@ NContr = input("Ingrese contraseña: ")
 if NUsura != "VinVal82" and NContr != "29581049":
     print("Nombre o contraseña incorrecta")
 else:
-    print("Nombre y contraseña ingresados con exito")
+    print("Nombre y contraseña ingresados con éxito")

@@ -1,4 +1,4 @@
-print("La cuenta que usted abrio fue en 1961")
+print("La cuenta que usted abrió fue en 1961")
 Año = 2022 - 1961
 Precio = 1500
 

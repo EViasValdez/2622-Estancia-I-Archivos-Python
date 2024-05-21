@@ -16,7 +16,7 @@ class Reproduccion:
     def ReproduccionVideo(self):
         print("Reproduciendo video....")
     def ReproduccionMusica(self):
-        print("Reproduciendo musica....")
+        print("Reproduciendo música....")
 class TelefonoCelular (Telefono, Camara, Reproduccion):
     def __del__(self):
         print("Telefono apagado....")

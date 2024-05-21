@@ -20,5 +20,5 @@ Resultado4 = (Numero1 / Numero2);
 
 print("Suma " + str(Resultado1));
 print("Resta " + str(Resultado2));
-print("Multiplicacion " + str(Resultado3));
-print("Division " + str(Resultado4));
+print("Multiplicación " + str(Resultado3));
+print("División " + str(Resultado4));
