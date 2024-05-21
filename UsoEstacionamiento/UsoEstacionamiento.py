@@ -1,7 +1,7 @@
 print("Determinar el precio a pagar por el uso del estacionamiento")
 input()
 
-Hora = int(input("Ingrese el numero de horas: "))
+Hora = int(input("Ingrese el número de horas: "))
 Total = 0.0
 
 if Hora <= 2:
