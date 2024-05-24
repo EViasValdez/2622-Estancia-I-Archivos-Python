@@ -1,4 +1,4 @@
-# Archivos de python de la primera estancia en la universidad.
+# Archivos de Python de la primera estancia en la universidad.
 
 <!----Notas---->
 **Notas**
@@ -8,8 +8,8 @@
 **- Agregue lo que se pudo compilar de varios de los programas por medio de pyinstaller.**
 <!----Separador de las notas---->
 
-<!----Directorio con descripcion de los programas---->
-# Descripcion de los programas
+<!----Directorio con descripción de los programas---->
+# Descripción de los programas
 
 ###### Print - 20/05/22
 Programa simple que solo muestra un texto.
@@ -17,7 +17,7 @@ Programa simple que solo muestra un texto.
 <!----Separador---->
 
 ###### PrimerPrograma - 24/05/22
-Utilizacion de una variable de tipo String.
+Utilización de una variable de tipo String.
 
 <!----Separador---->
 
@@ -31,7 +31,7 @@ Ingreso y salida de datos.
 
 <!----Separador---->
 
-Muestra de numeros positivos y verificacion de numeros.
+Muestra de números positivos y verificacion de números.
 
 <!----Separador---->
 
@@ -40,12 +40,12 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### Bucle - 06/06/22
-Programa de ejemplo que utiliza el bucle como caracteristica.
+Programa de ejemplo que utiliza el bucle como característica.
 
 <!----Separador---->
 
 ##### Contrasenia - 10/06/22
-Ejemplo de inicio de sesion.
+Ejemplo de inicio de sesión.
 
 <!----Separador---->
 
@@ -65,42 +65,42 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### EjercicioFunciones1, EjercicioFunciones2, EjercicioFunciones3 - 05/07/22
-Utilizacion de funciones y definicion de parametros.
+Utilización de funciones y definición de parámetros.
 
 <!----Separador---->
 
-Programacion de parametros a traves de la generacion de numeros.
+Programación de parámetros a través de la generación de números.
 
 <!----Separador---->
 
-Definicion factorial y de numeros enteros.
+Definición factorial y de números enteros.
 
 <!----Separador---->
 
 ##### ClasesObjetos - 06/07/22
-Ejemplo de clases uitilizando la informacion de un automovil.
+Ejemplo de clases utilizando la información de un automóvil.
 
 <!----Separador---->
 
 ##### Metodos, MetodosInit, CalculadoraMetodos, FuncionesAtributos - 07/07/22
-Programacion de una suma usando metodos.
+Programación de una suma usando métodos.
 
 <!----Separador---->
 
-Similar al programa "ClasesObjetos", aunque aqui se utiliza la informacion de una computadora.
+Similar al programa "ClasesObjetos", aunque aquí se utiliza la información de una computadora.
 
 <!----Separador---->
 
-Calculadora con funciones a traves de metodos.
+Calculadora con funciones a través de métodos.
 
 <!----Separador---->
 
-Tambien como "ClasesObjetos", se usa informacion de un televisor.
+Tambien como "ClasesObjetos", se usa información de un televisor.
 
 <!----Separador---->
 
 ##### Constructores - 08/07/22
-Ejemplo del metodo constructor y modificacion de un atributo.
+Ejemplo del método constructor y modificación de un atributo.
 
 <!----Separador---->
 
@@ -109,7 +109,7 @@ Calculadora que utiliza clases y herencias.
 
 <!----Separador---->
 
-Uso de la herencia multiple en telefono y camara.
+Uso de la herencia múltiple en teléfono y cámara.
 
 <!----Separador---->
 
@@ -118,24 +118,24 @@ Auto registro de un F-String.
 <!----Separador---->
 
 ##### MetodosClaseyEstaticos, Polimorfismo, PolimorfismoFuncion - 14/07/22
-Programa que hace uso de los metodos clase y metodos estaticos.
+Programa que hace uso de los métodos clase y métodos estáticos.
 
 <!----Separador---->
  
-A traves de figuras se hace uso del poliformismo
+A través de figuras se hace uso del polimorfismo
 
 <!----Separador---->
 
-Tiene similitud con el anterior, aqui se utiliza el metodo ya visto con funciones.
+Tiene similitud con el anterior, aquí se utiliza el método ya visto con funciones.
 
 <!----Separador---->
 
 ##### LeeryEditarArchivo, EliminarArchivo - 16/07/22 
-Lectura y edicion de un archivo.
+Lectura y edición de un archivo.
 
 <!----Separador---->
 
-Eliminacion de un archivo este programa debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
+Eliminación de un archivo este programa debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
 
 ##### CuadroTexto, CuadroTextoBotones - 21/07/22
 Texto por ser escrito.
@@ -152,11 +152,11 @@ Calculadora que funciona por medio de operaciones.
 
 <!----Separador---->
 
-Revision e ingreso de pagos en la cuenta..
+Revisión e ingreso de pagos en la cuenta.
 
 <!----Separador---->
 
-Sistema de calificacion usando ciclos.
+Sistema de calificación usando ciclos.
 
 <!----Separador---->
 
@@ -170,7 +170,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### ActividadPoo - 29/07/22
-Programa que utiliza la programacion orientada a objetos.
+Programa que utiliza la programación orientada a objetos.
 
 <!----Separador---->
 
