@@ -160,12 +160,12 @@ Sistema de calificación usando ciclos.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Metodo por funciones usando cono base un conversor de monedas.
 
 <!----Separador---->
 
 ##### ActividadEstructurasDatos - 25/07/22
-Texto por ser escrito.
+Agenda con registro de contactos.
 
 <!----Separador---->
 
