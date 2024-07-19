@@ -175,11 +175,11 @@ Programa que utiliza la programación orientada a objetos.
 <!----Separador---->
 
 ##### CompañiaAutobuses, CompañiaTelefonos, PromedioAlumno, UsoEstacionamiento, SalarioTrabajador, Ejerlibr1, Ejerlibr2, Ejerlibr3, Ejerlibr4, Automotriz - 09/08/22
-Texto por ser escrito.
+Programa de un servicio de autobuses.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Establecimiento del salario de un trabajador cuando se la da un incremento.
 
 <!----Separador---->
 
