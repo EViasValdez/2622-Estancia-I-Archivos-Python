@@ -183,11 +183,15 @@ Establecimiento del salario de un trabajador cuando se la da un incremento.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Calculo del sueldo neto de un cliente.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Verificacion de un numero natural positivo.
+
+<!----Separador---->
+
+Nuemro deseado de la tabla.
 
 <!----Separador---->
 
