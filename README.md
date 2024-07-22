@@ -201,4 +201,12 @@ Texto por ser escrito.
 
 Texto por ser escrito.
 
+<!----Separador---->
+
+Texto por ser escrito.
+
+<!----Separador---->
+
+Texto por ser escrito.
+
 <!----Separador del directorio con ubicación de archivos---->
