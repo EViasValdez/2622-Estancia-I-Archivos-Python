@@ -179,7 +179,7 @@ Programa de un servicio de autobuses.
 
 <!----Separador---->
 
-Establecimiento del salario de un trabajador cuando se la da un incremento.
+Algo similar al primero pero por medio de un servicio de compañia de telefonos.
 
 <!----Separador---->
 
