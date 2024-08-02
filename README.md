@@ -183,15 +183,15 @@ Algo similar al primero pero por medio de un servicio de compañia de telefonos.
 
 <!----Separador---->
 
-Calculo del sueldo neto de un cliente.
+Calculo del promedio de calificacion de un alumno.
 
 <!----Separador---->
 
-Verificacion de un numero natural positivo.
+Programa que toma en cuenta el uso de un estacionamiento.
 
 <!----Separador---->
 
-Numero deseado de la tabla.
+Revision del calculo del salario de un trabajador.
 
 <!----Separador---->
 
