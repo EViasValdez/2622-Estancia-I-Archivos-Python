@@ -191,7 +191,7 @@ Verificacion de un numero natural positivo.
 
 <!----Separador---->
 
-Nuemro deseado de la tabla.
+Numero deseado de la tabla.
 
 <!----Separador---->
 
