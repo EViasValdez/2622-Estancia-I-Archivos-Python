@@ -138,12 +138,12 @@ Lectura y edición de un archivo.
 Eliminación de un archivo este programa debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
 
 ##### CuadroTexto, CuadroTextoBotones - 21/07/22
-Texto por ser escrito.
+Utilizacion del cuadro de texto.
 
 <!----Separador---->
 
 ##### CuadrosTexto, ProblemaHerencia, Menu, VentanasEmergentes - 22/07/22
-Texto por ser escrito.
+Lo mismo que el anterior, solo que usando botones.
 
 <!----Separador---->
 
