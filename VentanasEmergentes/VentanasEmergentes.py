@@ -36,7 +36,8 @@ ArchivoMenu = Menu(BarraMenu, tearoff = 0)
 
 ArchivoMenu.add_command(label = "Nuevo")
 ArchivoMenu.add_command(label = "Abrir", command = AbreArchivo)
-ArchivoMenu.add_separator() # Esta linea genera una linea separadora.
+ArchivoMenu.add_separator()
+# Esta linea genera una linea separadora.
 ArchivoMenu.add_command(label = "Cerrar", command = CerrarDocumento)
 ArchivoMenu.add_command(label = "Salir", command = SalirApp)
 
