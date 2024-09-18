@@ -147,6 +147,14 @@ Lo mismo que el anterior, solo que usando botones.
 
 <!----Separador---->
 
+Solucion de un problema relacionado con las herencias.
+
+<!----Separador---->
+
+Uso de un menu con Thinker.
+
+<!----Separador---->
+
 ##### ActividadOperadores, ActividadCondicionales, ActividadCiclos, ActividadFunciones - 23/07/22
 Calculadora que funciona por medio de operaciones.
 
