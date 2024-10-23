@@ -35,7 +35,7 @@ Muestra de números positivos y verificacion de números.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Calculadora escrita en el programna.
 
 <!----Separador---->
 
@@ -203,7 +203,7 @@ Revision del calculo del salario de un trabajador.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Ejercicio que muestra el problema.
 
 <!----Separador---->
 
