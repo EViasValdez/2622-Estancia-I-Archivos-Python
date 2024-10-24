@@ -64,6 +64,10 @@ Texto por ser escrito.
 
 <!----Separador---->
 
+Texto por ser escrito.
+
+<!----Separador---->
+
 ##### EjercicioFunciones1, EjercicioFunciones2, EjercicioFunciones3 - 05/07/22
 Utilización de funciones y definición de parámetros.
 
