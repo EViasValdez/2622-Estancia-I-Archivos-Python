@@ -147,7 +147,7 @@ Lo mismo que el anterior, solo que usando botones.
 
 <!----Separador---->
 
-Solucion de un problema relacionado con las herencias.
+Solucion de un problema de las herencias.
 
 <!----Separador---->
 
