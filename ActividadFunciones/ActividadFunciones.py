@@ -7,7 +7,7 @@ def Conversor(MonedaActual, Valor, MonedaaConvertir):
             if MonedaaConvertir == "1":
                 print(f"{Valor} dólares equivale a ${Valor * 0.49} pesos colombianos")
             elif MonedaaConvertir == "2":
-                print(f"{Valor} dólares equivale a ¥{Valor * 6.37} yuanes")
+                print(f"{Valor} dólares equivale a ¥{Valor * 6.37} yuanes o yenes")
             elif MonedaaConvertir == "3":
                 print(f"{Valor} dólares equivale a £{Valor * 0.76} libras")
             else:
