@@ -5,7 +5,7 @@
 
 **- Se tienen incluidos los programas realizados con un motor grafico de ventanas.**
 
-**- Agregue lo que se pudo compilar de varios de los programas por medio de pyinstaller.**
+**- Agregue lo que se pudo compilar de varios de los programas por medio de Py-to-Exe.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
