@@ -203,22 +203,22 @@ Revision del calculo del salario de un trabajador.
 
 <!----Separador---->
 
-Ejercicio que muestra el problema.
+Calculo de un sueldo neto de un trabajador.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Revision de un numero natural positivo.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Ingreso de un numero deseado a traves de una tabla.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Calculos realizados en una cuenta bancaria de cierto año hasta otro año.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Sistema de operaciones en una automotriz.
 
 <!----Separador del directorio con ubicación de archivos---->
