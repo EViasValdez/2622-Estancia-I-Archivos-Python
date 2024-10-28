@@ -50,7 +50,7 @@ Ejemplo de inicio de sesión.
 <!----Separador---->
 
 ##### Listas - 13/06/22
-Texto por ser escrito.
+Organizacion de objetos a traves de listas.
 
 <!----Separador---->
 
