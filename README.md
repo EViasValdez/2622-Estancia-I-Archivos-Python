@@ -60,11 +60,11 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### Funciones, Lambda - 16/06/22
-Texto por ser escrito.
+Demostracion del funcionamiento de un programa.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Realizacion de la expresion lambda.
 
 <!----Separador---->
 
