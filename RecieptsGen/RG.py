@@ -1,10 +1,19 @@
 from tkinter import *
 
-Ventana = Tk() # Ventana generada.
-Ventana.geometry("1000x700") # Dimensiones de la ventana.
-Ventana.iconbitmap("RG.ico") # Icono de la ventana.
-Ventana.title("RecieptsGen") # Titulo de la ventana.
-Frame1 = Frame(width = 1000, height = 700) # Primer frame y dimensiones.
+# Ventana generada.
+Ventana = Tk() 
+
+# Dimensiones de la ventana.
+Ventana.geometry("1000x700")
+
+# Icono de la ventana.
+Ventana.iconbitmap("RG.ico")
+
+# Titulo de la ventana.
+Ventana.title("RecieptsGen")
+
+# Primer frame y dimensiones.
+Frame1 = Frame(width = 1000, height = 700)
 
 # Campo de nombres.
 Label1 = Label(Ventana, text = "Nombre (s)", font = "Tahoma 12")
