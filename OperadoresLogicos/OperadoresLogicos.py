@@ -9,7 +9,6 @@ print(Resultado)
 
 # Operaciones de asignación.
 A = 0
-
 A += 5
 A -= 2
 A *= 3
