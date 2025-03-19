@@ -9,6 +9,7 @@ class Pastel:
     @classmethod
     def PastelVainilla(cls):
         return cls(["Harina", "Leche", "Vainilla"])
+
 print(Pastel.PastelChocolate())
 print(Pastel.PastelVainilla())
 
