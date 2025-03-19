@@ -1,4 +1,4 @@
-# Archivos de Python de la primera estancia en la universidad.
+# Archivos de Python de la primera estancia en la universidad como parte del proyecto de la misma.
 
 <!----Notas---->
 **Notas**
