@@ -9,19 +9,23 @@ from tkinter import filedialog
 # Creamos una ventana con información.
 def InfoAdicional():
     messagebox.showinfo("Titulo del programa", "Inserte título aquí")
+
 # Creamos una ventana con advertencia.
 def InfoLicencia():
     messagebox.showwarning("Licencia", "Licencia activada")
+
 # Creamos una ventana de pregunta.
 def SalirApp():
     Valor = messagebox.askokcancel("salir", "¿Desea salir?")
     if Valor == True:
         Raiz.destroy()
+
 # Cerramos el documento.
 def CerrarDocumento():
     Valor = messagebox.askretrycancel("Reintentar", "No es posible cerrar el documento")
     if Valor == False:
         Raiz.destroy()
+
 # Creamos la función abrir archivo.
 def AbreArchivo():
     Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
