@@ -1,4 +1,5 @@
 print("Ingrese su datos de ingreso")
+
 # El nombre de usuario es VinVal82.
 # La contraseña es 29581049.
 NUsura = input("Ingrese nombre de usuario: ")
