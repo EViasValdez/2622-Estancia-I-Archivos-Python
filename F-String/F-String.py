@@ -4,7 +4,6 @@ class Estudiante:
         self.Apellido = Apellido
         self.Edad = Edad
         self.Municipio = Municipio
-
     def __str__(self):
         return f"Hola mi nombre es {self.Nombre} {self.Apellido}, tengo {self.Edad} años y vivo en {self.Municipio}"
 
