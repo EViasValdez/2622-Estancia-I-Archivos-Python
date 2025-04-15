@@ -1,5 +1,5 @@
 print("----------------------------");
-print("Asignacion de valores");
+print("Asignación de valores");
 
 Texto1 = "Uno";
 Texto2 = "Dos";
@@ -8,7 +8,7 @@ print(f"El primer texto dice " + Texto1);
 print(f"El segundo texto dice " + Texto2);
 
 print("----------------------------");
-print("Asignacion de variables");
+print("Asignación de variables");
 
 Numero1 = 10;
 Numero2 = 10;
