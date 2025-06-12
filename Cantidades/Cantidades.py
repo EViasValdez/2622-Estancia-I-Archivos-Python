@@ -18,7 +18,7 @@ def Cantidades():
             else:
                 C = C + 1
         X = X + 1
-
+    
     print("Los números introducidos son: ", Lista)
     print("Las cantidades que son menores a cero son: " + str(A))
     print("Las cantidades que son iguales a cero son: " + str(B))
