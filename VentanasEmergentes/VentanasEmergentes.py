@@ -26,16 +26,16 @@ def CerrarDocumento():
     if Valor == False:
         Raiz.destroy()
 
-# Creamos la función abrir archivo.
+# Se crea la función abrir archivo.
 def AbreArchivo():
     Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
     print(Archivo)
 
-# Creamos una variable para el menú.
+# Se crea tambien una variable para el menú.
 BarraMenu = Menu(Raiz)
 Raiz.config(menu = BarraMenu, width = 300, height = 300)
 
-# Establecemos cantidad de elementos.
+# Establecimiento de cantidad de elementos.
 ArchivoMenu = Menu(BarraMenu, tearoff = 0)
 
 ArchivoMenu.add_command(label = "Nuevo")
