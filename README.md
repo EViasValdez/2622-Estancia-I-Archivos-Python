@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Se tienen incluidos los programas realizados con un motor grafico de ventanas.**
+**- Se tienen incluidos los programas realizados con un motor grafico de ventanas (Thinker).**
 
 **- Agregue lo que se pudo compilar de varios de los programas por medio de Py-to-Exe.**
 <!----Separador de las notas---->
