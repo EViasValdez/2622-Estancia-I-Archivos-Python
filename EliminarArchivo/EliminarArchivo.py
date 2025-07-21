@@ -1,2 +1,2 @@
 import os
-os.remove("archivo2.txt")
+os.remove("archivo.txt")
