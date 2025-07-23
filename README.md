@@ -26,7 +26,7 @@ Se muestra si varios valores son mayores o menores.
 
 <!----Separador---->
 
-##### Salidayentradadedatos, Condicionales, Calculadora - 04/06/22
+##### SalidayEntradadedatos, Condicionales, Calculadora - 04/06/22
 Ingreso y salida de datos.
 
 <!----Separador---->
