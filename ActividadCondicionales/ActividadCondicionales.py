@@ -12,4 +12,4 @@ elif 300 <= ValorCompra < 500:
       Descuento = 0.2
 
 PrecioFinal = ValorCompra - (ValorCompra * Descuento)
-print(f"Compra sin descuento: {ValorCompra} . \n Compra con descuento: {PrecioFinal}")
+print(f"Compra sin descuento: {ValorCompra} , \n Compra con descuento: {PrecioFinal}")
