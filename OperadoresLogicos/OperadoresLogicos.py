@@ -7,7 +7,7 @@ Resultado = ((A < B) or (B < C))
 
 print(Resultado)
 
-# Operaciones de asignación.
+# Operadores de asignación.
 A = 0
 A += 5
 A -= 2
