@@ -7,7 +7,7 @@ class Cubo:
     def Desc(self):
         return "{} tiene {}".format(self.Bidimensional, self.Lados)
     def Comentario(self, Texto):
-        return "{} he aqui un texto {}".format(self.Bidimensional, Texto)
+        return "{} he aquí un texto {}".format(self.Bidimensional, Texto)
 
 Figura = Cubo("Si", "4")
 print(Figura.Desc())
