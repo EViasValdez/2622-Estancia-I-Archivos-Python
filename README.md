@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Se tienen incluidos los programas realizados con un motor grafico de ventanas (Thinker).**
+**- Se tienen incluidos los programas realizados con un motor gráfico de ventanas (Thinker).**
 
 **- Agregue lo que se pudo compilar de varios de los programas por medio de Py-to-Exe.**
 <!----Separador de las notas---->
@@ -35,7 +35,7 @@ Muestra de números positivos y verificacion de números.
 
 <!----Separador---->
 
-Calculadora escrita en el programna.
+Calculadora escrita en el programa.
 
 <!----Separador---->
 
@@ -60,11 +60,11 @@ Texto por ser escrito.
 <!----Separador---->
 
 ##### Funciones, Lambda - 16/06/22
-Demostracion del funcionamiento de un programa.
+Demostración del funcionamiento de un programa.
 
 <!----Separador---->
 
-Realizacion de la expresion lambda.
+Realización de la expresion lambda.
 
 <!----Separador---->
 
@@ -99,7 +99,7 @@ Calculadora con funciones a través de métodos.
 
 <!----Separador---->
 
-Tambien como "ClasesObjetos", se usa información de un televisor.
+También como "ClasesObjetos", se usa información de un televisor.
 
 <!----Separador---->
 
@@ -151,11 +151,11 @@ Lo mismo que el anterior, solo que usando botones.
 
 <!----Separador---->
 
-Solucion de un problema de las herencias.
+Solución de un problema de las herencias.
 
 <!----Separador---->
 
-Creacion y uso de un menu con Thinker.
+Creación y uso de un menu con Thinker.
 
 <!----Separador---->
 
@@ -172,7 +172,7 @@ Sistema de calificación usando ciclos.
 
 <!----Separador---->
 
-Metodo por funciones usando cono base un conversor de monedas.
+Método por funciones usando cono base un conversor de monedas.
 
 <!----Separador---->
 
@@ -191,11 +191,11 @@ Programa de un servicio de autobuses.
 
 <!----Separador---->
 
-Algo similar al primero pero por medio de un servicio de compañia de telefonos.
+Algo similar al primero pero por medio de un servicio de compañía de teléfonos.
 
 <!----Separador---->
 
-Calculo del promedio de calificacion de un alumno.
+Calculo del promedio de calificación de un alumno.
 
 <!----Separador---->
 
@@ -219,7 +219,7 @@ Ingreso de un numero deseado a traves de una tabla.
 
 <!----Separador---->
 
-Calculos realizados en una cuenta bancaria de cierto año hasta otro año.
+Cálculos realizados en una cuenta bancaria de cierto año hasta otro año.
 
 <!----Separador---->
 
