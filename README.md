@@ -172,7 +172,7 @@ Sistema de calificación usando ciclos.
 
 <!----Separador---->
 
-Método por funciones usando cono base un conversor de monedas.
+Método por funciones usando cono base una calculadora de monedas.
 
 <!----Separador---->
 
