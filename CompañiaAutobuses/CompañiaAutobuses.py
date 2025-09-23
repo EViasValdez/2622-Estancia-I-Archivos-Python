@@ -4,7 +4,7 @@ print("---- COMPAÑIA DE AUTOBUSES ----")
 print("---- PRESIONE PARA CONTINUAR ----")
 input()
 
-print("PRECIO POR KILOMETRO:")
+print("PRECIO POR KILÓMETRO:")
 print("$20")
 input()
 
