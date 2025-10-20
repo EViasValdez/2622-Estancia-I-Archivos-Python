@@ -142,7 +142,7 @@ Lectura y edición de un archivo.
 Eliminación de un archivo, este programa debe ser abierto con cuidado, ya que al ejecutarlo pueden realizar al archivo de texto que viene incorporado.
 
 ##### CuadroTexto, CuadroTextoBotones - 21/07/22
-Utilizacion del cuadro de texto.
+Utilización del cuadro de texto.
 
 <!----Separador---->
 
