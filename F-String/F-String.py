@@ -10,7 +10,7 @@ class Estudiante:
     def __repr__(self):
         return f"Hola mi nombre es {self.Nombre} {self.Apellido}, tengo {self.Edad} años y vivo en {self.Municipio}"
 
-EstudianteNuevo = Estudiante("Eduardo", "Viñas", "22", "Tecamac")
+EstudianteNuevo = Estudiante("Eduardo", "Viñas", "22", "Tecámac")
 
 print(f"{EstudianteNuevo}")
 print(f"{EstudianteNuevo !r}")

@@ -25,7 +25,7 @@ class Pastel:
     @staticmethod
     def TamañoArea(A):
         return A **2* Math.pi
-NuevoPastel = Pastel(["Harina", "Azucar", "Leche", "Crema"], 4)
+NuevoPastel = Pastel(["Harina", "Azúcar", "Leche", "Crema"], 4)
 
 print(NuevoPastel.Ingredientes)
 print(NuevoPastel.Tamaño)
