@@ -5,7 +5,7 @@
 
 **- Se tienen incluidos los programas realizados con un motor gráfico de ventanas (Thinker).**
 
-**- Agregue lo que se pudo compilar de varios de los programas por medio de Py-to-Exe.**
+**- Agregue lo que se pudo compilar de varios de los programas por medio del programa de linea pip Py-to-Exe.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
