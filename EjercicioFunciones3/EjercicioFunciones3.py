@@ -7,7 +7,7 @@ def Factorial(Numero):
     return Resultado
 print(Factorial(5))
 
-# Numeros enteros.
+# Números enteros.
 def NumeroSen(N1, N2):
     if (N1 > N2):
         Aux = N1
