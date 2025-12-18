@@ -64,7 +64,7 @@ Demostración del funcionamiento de un programa.
 
 <!----Separador---->
 
-Realización de la expresion lambda.
+Realización de la expresión lambda.
 
 <!----Separador---->
 
