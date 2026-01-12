@@ -1,5 +1,5 @@
-Nombre = input("Ingrese el nombre del cliente ")
-ValorCompra = float(input("Ingrese el valor de la compra "))
+Nombre = input("Ingrese el nombre del cliente: ")
+ValorCompra = float(input("Ingrese el valor de la compra: "))
 Descuento = float(ValorCompra * Descuento)
 
 if ValorCompra < 80:
