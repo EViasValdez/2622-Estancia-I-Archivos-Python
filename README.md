@@ -54,12 +54,12 @@ Ejemplo de inicio de sesión.
 <!----Separador---->
 
 ##### Listas - 13/06/22
-Organizacion de objetos a traves de listas.
+Organización de objetos a traves de listas.
 
 <!----Separador---->
 
 ##### Diccionarios - 14/06/22
-Texto por ser escrito.
+Utilización de grupos de nombres.
 
 <!----Separador---->
 
