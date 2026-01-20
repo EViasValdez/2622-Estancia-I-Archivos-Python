@@ -195,7 +195,7 @@ Programa de un servicio de autobuses.
 
 <!----Separador---->
 
-Algo similar al primero pero por medio de un servicio de compañía de teléfonos.
+Tiene similitudes al primero, pero por medio de un servicio de compañía de teléfonos.
 
 <!----Separador---->
 
@@ -227,6 +227,6 @@ Cálculos realizados en una cuenta bancaria de cierto año hasta otro año.
 
 <!----Separador---->
 
-Sistema de operaciones en una automotriz.
+Sistema de operaciones de una automotriz.
 
 <!----Separador del directorio con ubicación de archivos---->
