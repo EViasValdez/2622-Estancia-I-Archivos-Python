@@ -1,4 +1,4 @@
-# Archivos de Python de la primera estancia.
+# Archivos de Python
 
 <!----Descripción---->
 Por ser escrita.
