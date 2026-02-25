@@ -9,7 +9,7 @@ Por ser escrita.
 
 **- Se tienen incluidos los programas realizados el motor gráfico de ventanas Thinker.**
 
-**- Agregue lo que se pudo compilar de varios de los programas por medio del programa de linea de comandos de Python Py-to-Exe.**
+**- Agregue lo que se pudo compilar de varios de los programas por medio del programa de linea de comandos Py-to-Exe.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
