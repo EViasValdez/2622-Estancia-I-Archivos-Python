@@ -12,7 +12,6 @@ print("Asignación de variables");
 
 Numero1 = 10;
 Numero2 = 10;
-
 Resultado1 = (Numero1 + Numero2);
 Resultado2 = (Numero1 - Numero2);
 Resultado3 = (Numero1 * Numero2);
