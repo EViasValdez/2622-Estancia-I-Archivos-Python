@@ -6,7 +6,6 @@ Por ser escrita.
 
 <!----Notas---->
 **Notas**
-
 **- Se tienen incluidos los programas realizados el motor gráfico de ventanas Thinker.**
 
 **- Agregue lo que se pudo compilar de varios de los programas por medio del programa de linea de comandos Py-to-Exe.**
@@ -14,7 +13,6 @@ Por ser escrita.
 
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
-
 ###### Print - 20/05/22
 Programa simple que solo muestra un texto.
 
