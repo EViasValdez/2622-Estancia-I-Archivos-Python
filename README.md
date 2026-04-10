@@ -6,7 +6,7 @@ Por ser escrita.
 
 <!----Notas---->
 **Notas**
-**- Se tienen incluidos los programas realizados con el motor gráfico de ventanas e interfaces Thinker.**
+**- Se incluyen los programas realizados con el motor gráfico de ventanas e interfaces Thinker.**
 
 **- Agregue lo que se pudo compilar de varios de los programas por medio del programa de linea de comandos Py-to-Exe.**
 <!----Separador de las notas---->
