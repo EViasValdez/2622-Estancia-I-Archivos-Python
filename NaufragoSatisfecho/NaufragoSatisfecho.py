@@ -5,7 +5,7 @@ input()
 def Hamburguesas():
     F = 1
     Total = 0
-    Cantidad = int(input("Ingresar la cantidad de hamburguesas:  "))    
+    Cantidad = int(input("Ingresar la cantidad de hamburguesas: "))    
 
     while F <= Cantidad:
         N = int(input ("Escoge el tipo de hamburguesa \n 1 - Sencilla $20 \n 2 - Doble $25 \n 3.- Triple $28 \n"))
