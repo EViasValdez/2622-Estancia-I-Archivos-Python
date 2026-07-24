@@ -12,4 +12,4 @@ Contador = Contador + 1
 
 Promedio = Sumatoria / Materias
 print ("____RESULTADOS____")
-print (f"Hola, {Nombre} tienes un promedio de {Promedio} en el 5to semestre.")
+print (f"Hola, {Nombre} tienes un promedio de {Promedio} en el quinto semestre.")
