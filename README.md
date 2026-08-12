@@ -166,7 +166,7 @@ Calculadora que funciona por medio de operaciones.
 
 <!----Separador---->
 
-Revisión e ingreso de pagos en la cuenta.
+Revisión e ingreso de pagos en una cuenta económica.
 
 <!----Separador---->
 
