@@ -8,7 +8,7 @@ def GenNum(Minim, Maxim):
             Maxim = Aux
         return randint(Minim, Maxim)
     except TypeError:
-        print("Debes de escribir numeros")
+        print("Debes de escribir números")
         return -1
 i = 0
 
