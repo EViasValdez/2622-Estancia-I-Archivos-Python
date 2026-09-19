@@ -157,7 +157,7 @@ Solución de un problema de las herencias.
 
 <!----Separador---->
 
-Creación y uso de un menu con Thinker.
+Creación y uso de un menu con la libreria Thinker.
 
 <!----Separador---->
 
