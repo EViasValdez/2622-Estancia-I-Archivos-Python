@@ -21,7 +21,7 @@ class Pastel:
     def __repr__(self):
         return f"Pastel {self.Ingredientes} " f"{self.Tamaño}"
     def area(self):
-        return self.TamañoArea (self.Tamaño)
+        return self.TamañoArea(self.Tamaño)
     @staticmethod
     def TamañoArea(A):
         return A **2* Math.pi
