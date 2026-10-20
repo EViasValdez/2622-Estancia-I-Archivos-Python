@@ -1,7 +1,7 @@
 # Archivos de Python
 
 <!----Descripción---->
-Parte de estos archivos fueron hechos para un curso el cual aprendí para la primera estancia universitaria, ademas de otro que era gratuito.
+Parte de estos archivos fueron hechos para un curso el cual aprendí para la primera estancia en la universidad, ademas de otro que era gratuito.
 <!----Separador de la descripción---->
 
 <!----Notas---->
