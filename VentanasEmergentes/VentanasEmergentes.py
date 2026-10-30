@@ -31,7 +31,7 @@ def AbreArchivo():
     Archivo = filedialog.askopenfilename(title = "Abrir", initialdir = "/", filetypes = (("Fichero de Excel", ".xlsx"), ("Fichero de texto", ".txt")))
     print(Archivo)
 
-# Se crea tambien una variable para el menú.
+# Se crea también una variable para el menú.
 BarraMenu = Menu(Raiz)
 Raiz.config(menu = BarraMenu, width = 300, height = 300)
 
