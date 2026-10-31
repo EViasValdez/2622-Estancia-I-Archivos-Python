@@ -64,11 +64,11 @@ AyudaMenu.add_command(label = "SubElemento 2")
 AyudaMenu.add_command(label = "Licencia", command = InfoLicencia)
 AyudaMenu.add_command(label = "Acerca del programa", command = InfoAdicional)
 
-# Poner en consola.
+# Poner en la consola.
 BarraMenu.add_cascade(label = "Archivo", menu = ArchivoMenu)
 BarraMenu.add_cascade(label = "Edicion", menu = EdicionMenu)
 BarraMenu.add_cascade(label = "Herramientas", menu = HerramientaMenu)
 BarraMenu.add_cascade(label = "Ayuda", menu = AyudaMenu)
 
-# Mostrar en pantalla.
+# Mostrar en la pantalla.
 Raiz.mainloop()
