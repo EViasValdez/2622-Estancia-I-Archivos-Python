@@ -1,6 +1,6 @@
 print("----BIENVENIDO----")
 print("---- 'CURVA LOCA' ----")
-print("---- COMPAÑIA DE AUTOBUSES ----")
+print("---- COMPAÑÍA DE AUTOBUSES ----")
 print("---- PRESIONE PARA CONTINUAR ----")
 input()
 
