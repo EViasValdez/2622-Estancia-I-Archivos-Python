@@ -43,7 +43,7 @@ while Consultando:
         else:
             Telefono = int(input("Ingrese el teléfono: "))
             Agenda[Nombre] = Telefono
-            print("El Telefono se ha modificado correctamente")
+            print("El teléfono se ha modificado correctamente")
     elif Opcion == "4":
         Nombre = input("Nombre: ")
         if Nombre not in Agenda:

@@ -1,4 +1,4 @@
-print("==== Automotriz Calarin ====")
+print("==== Automotriz Calarín ====")
 input()
 
 print("Clave del vehículo")
