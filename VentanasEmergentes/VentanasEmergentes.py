@@ -16,7 +16,7 @@ def InfoLicencia():
 
 # Creamos una ventana de pregunta.
 def SalirApp():
-    Valor = messagebox.askokcancel("salir", "¿Desea salir?")
+    Valor = messagebox.askokcancel("Salir", "¿Desea salir?")
     if Valor == True:
         Raiz.destroy()
 
